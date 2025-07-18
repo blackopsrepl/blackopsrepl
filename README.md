@@ -14,14 +14,6 @@ I engineer systems bridging AI agents and algorithmic tools with:
 - **Backend Systems**: Python, Rust, Go
 - **Cloud Automation**: AWS serverless architectures
 
-```python
-# My engineering philosophy
-def solve_problem(requirements):
-    return practical_solution(requirements, 
-                              hype_resistant=True, 
-                              certified_skills=SKILLS)
-```
-
 ---
 
 ### 🚀 Highlighted Projects
