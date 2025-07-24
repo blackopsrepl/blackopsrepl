@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Production-Ready Systems
-I engineer systems bridging AI agents and algorithmic tools with:
+I engineer systems bridging AI agents and algorithmic tools!
 - **AI Agents**: Production implementations (LlamaIndex/LangChain)
 - **Optimization**: Constraint solving (Timefold, OR-Tools)
 - **Backend Systems**: Python, Rust, Go
