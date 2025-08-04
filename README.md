@@ -25,6 +25,7 @@ I engineer systems bridging AI agents and algorithmic tools!
 #### Timefold Python Contribution 
 `Constraint Solving` `Open Source`
 > Ported meeting scheduling quickstart from Java to Python ([merged upstream](https://github.com/TimefoldAI/timefold-quickstarts))
+> Optimized data models for the vehicle routing and meeting scheduling problems, with [benchmarks]([https://github.com/blackopsrepl/timefold-quickstarts-python/benchmarks](https://github.com/blackopsrepl/timefold-quickstarts-python/blob/main/benchmarks/report.md)) showing near-Java performance
 
 #### OCR Attendance System 
 `AWS` `Computer Vision`
