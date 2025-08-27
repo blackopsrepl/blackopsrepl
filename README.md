@@ -28,6 +28,8 @@ I engineer systems bridging AI agents and algorithmic tools!
 
 > Optimized data models for the vehicle routing and meeting scheduling problems, with [benchmarks](https://github.com/blackopsrepl/timefold-quickstarts-python/blob/main/benchmarks/report.md) showing near-Java performance
 
+> Currently providing **community support** in the form of blackops-solver-legacy after [discontinuation of the Python solver](https://github.com/TimefoldAI/timefold-solver/discussions/1698) by the Timefold team.
+
 #### OCR Attendance System 
 `AWS` `Computer Vision`
 > Production system with 99.8% accuracy rate for events attendance tracking
