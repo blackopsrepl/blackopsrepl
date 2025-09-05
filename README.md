@@ -10,13 +10,19 @@
 ### 🛠️ Production-Ready Systems
 I engineer systems bridging AI agents and algorithmic tools!
 - **AI Agents**: Production implementations (LlamaIndex/LangChain)
-- **Optimization**: Constraint solving (Timefold, OR-Tools)
+- **AI Optimization**: Constraint solving (BlackOps Solver, Timefold, OR-Tools)
 - **Backend Systems**: Python, Rust, Go
 - **Cloud Automation**: AWS serverless architectures
 
 ---
 
 ### 🚀 Highlighted Projects
+
+#### Lead Maintainer for [BlackOps Solver](https://github.com/BlackOpsAI/timefold-solver-legacy)
+`Constraint Solving` `Open Source`
+> Currently providing **community support** in the form of [blackops-solver-legacy](https://github.com/BlackOpsAI/blackops-solver-legacy) following the [discontinuation of the Python solver](https://github.com/TimefoldAI/timefold-solver/discussions/1698) by the Timefold team.
+
+> [Roadmap](https://github.com/orgs/BlackOpsAI/discussions/1)
 
 #### [Yuga Planner](https://github.com/blackopsrepl/yuga-planner) 
 `Gradio` `LlamaIndex` `Timefold` `MCP`
@@ -27,8 +33,6 @@ I engineer systems bridging AI agents and algorithmic tools!
 > Ported meeting scheduling quickstart from Java to Python ([merged upstream](https://github.com/TimefoldAI/timefold-quickstarts))
 
 > Optimized data models for the vehicle routing and meeting scheduling problems, with [benchmarks](https://github.com/blackopsrepl/timefold-quickstarts-python/blob/main/benchmarks/report.md) showing near-Java performance
-
-> Currently providing **community support** in the form of [blackops-solver-legacy](https://github.com/BlackOpsAI/blackops-solver-legacy) following the [discontinuation of the Python solver](https://github.com/TimefoldAI/timefold-solver/discussions/1698) by the Timefold team.
 
 #### OCR Attendance System 
 `AWS` `Computer Vision`
@@ -46,8 +50,8 @@ I engineer systems bridging AI agents and algorithmic tools!
 
 ### 🌱 Currently Upskilling
 - Hybrid LLM + solver architectures
-- EU AI Act compliant systems
-- Rust high-performance services
+- Cross-language type conversion
+- Native Rust-Java bytecode translation optimization
 
 ---
 
