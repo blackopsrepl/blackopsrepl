@@ -18,11 +18,11 @@ I engineer systems bridging AI agents and algorithmic tools!
 
 ### 🚀 Highlighted Projects
 
-#### Lead Maintainer for [BlackOps Solver](https://github.com/BlackOpsAI/timefold-solver-legacy)
+#### Lead Maintainer for [SolverForge](https://github.com/SolverForge)
 `Constraint Solving` `Open Source`
-> Currently providing **community support** in the form of [blackops-solver-legacy](https://github.com/BlackOpsAI/blackops-solver-legacy) following the [discontinuation of the Python solver](https://github.com/TimefoldAI/timefold-solver/discussions/1698) by the Timefold team.
+> Currently providing **community support** in the form of [solverforge-legacy](https://github.com/SolverForge/solverforge-legacy) following the [discontinuation of the Python solver](https://github.com/TimefoldAI/timefold-solver/discussions/1698) by the Timefold team.
 
-> [Roadmap](https://github.com/orgs/BlackOpsAI/discussions/1)
+> [Roadmap](https://github.com/orgs/SolverForge/discussions/1)
 
 #### [Yuga Planner](https://github.com/blackopsrepl/yuga-planner) 
 `Gradio` `LlamaIndex` `Timefold` `MCP`
