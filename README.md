@@ -3,7 +3,6 @@
 `Python` · `Rust` · `Go` · `Constraint Programming` · `Cloud Systems`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vdistefano)
-[![Hugging Face](https://img.shields.io/badge/🤗_HF_Spaces-Yuga_Planner-yellow)](https://huggingface.co/spaces/blackopsrepl/yuga-planner)
 
 ---
 
