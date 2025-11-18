@@ -9,7 +9,7 @@
 ### 🛠️ Production-Ready Systems
 I engineer systems bridging AI agents and algorithmic tools!
 - **AI Agents**: Production implementations (LlamaIndex/LangChain)
-- **AI Optimization**: Constraint solving (BlackOps Solver, Timefold, OR-Tools)
+- **AI Optimization**: Constraint solving (SolverForge, Timefold)
 - **Backend Systems**: Python, Rust, Go
 - **Cloud Automation**: AWS serverless architectures
 
