@@ -8,8 +8,8 @@
 
 ### 🛠️ Production-Ready Systems
 I engineer systems bridging AI agents and algorithmic tools!
-- **AI Agents**: Production implementations (LlamaIndex/LangChain)
 - **AI Optimization**: Constraint solving (SolverForge, Timefold)
+- **AI Agents**: Production implementations (LlamaIndex/LangChain or in Rust)
 - **Backend Systems**: Python, Rust, Go
 - **Cloud Automation**: AWS serverless architectures
 
@@ -20,8 +20,6 @@ I engineer systems bridging AI agents and algorithmic tools!
 #### Lead Maintainer for [SolverForge](https://github.com/SolverForge)
 `Constraint Solving` `Open Source`
 > Currently providing **community support** in the form of [solverforge-legacy](https://github.com/SolverForge/solverforge-legacy) following the [discontinuation of the Python solver](https://github.com/TimefoldAI/timefold-solver/discussions/1698) by the Timefold team.
-
-> [Roadmap](https://github.com/orgs/SolverForge/discussions/1)
 
 #### [Yuga Planner](https://github.com/blackopsrepl/yuga-planner) 
 `Gradio` `LlamaIndex` `Timefold` `MCP`
@@ -36,23 +34,6 @@ I engineer systems bridging AI agents and algorithmic tools!
 #### OCR Attendance System 
 `AWS` `Computer Vision`
 > Production system with 99.8% accuracy rate for events attendance tracking
-
----
-
-### 💡 Core Principles
-1. **No-BS Approach**: Solve real problems - ignore hype
-2. **Certified Skills**: ML, Data Engineering, AWS
-3. **Polyglot Flexibility**: EN/IT/DE/FR + right tool for the job (Python/Rust/Go)
-4. **EU-Compliant Automation**: Privacy-aware implementations
-
----
-
-### 🌱 Currently Upskilling
-- Hybrid LLM + solver architectures
-- Cross-language type conversion
-- Native Rust-Java bytecode translation optimization
-
----
 
 ### 📬 Let's Collaborate
 Reach out if you need:
