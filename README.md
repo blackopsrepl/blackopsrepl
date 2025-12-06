@@ -3,6 +3,9 @@
 `Python` · `Rust` · `Constraint Programming` · `Cloud Systems`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vdistefano)
+[![X](https://img.shields.io/badge/X-Follow-black?style=flat&logo=x)](https://x.com/BlackOpsREPL)
+[![Website](https://img.shields.io/badge/Portfolio-vdistefano.studio-purple?style=flat&logo=googlechrome)](https://www.vdistefano.studio)
+[![SolverForge](https://img.shields.io/badge/SolverForge-orange?style=flat&logo=rust)](https://www.solverforge.org)
 
 ---
 
