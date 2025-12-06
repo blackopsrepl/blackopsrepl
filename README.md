@@ -1,6 +1,6 @@
 # Vittorio Distefano
 **Software Engineer | AI Automation & Optimization**  
-`Python` · `Rust` · `Go` · `Constraint Programming` · `Cloud Systems`
+`Python` · `Rust` · `Constraint Programming` · `Cloud Systems`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vdistefano)
 
@@ -22,20 +22,6 @@ I engineer systems bridging AI agents and algorithmic tools!
 > Developing a [native Rust bridge](https://github.com/SolverForge/solverforge) to the [Timefold](https://timefold.ai) JVM
 
 > Additionally providing **community support** in the form of [solverforge-legacy](https://github.com/SolverForge/solverforge-legacy) following the [discontinuation of the Python solver](https://github.com/TimefoldAI/timefold-solver/discussions/1698) by the Timefold team.
-
-#### [Yuga Planner](https://github.com/blackopsrepl/yuga-planner) 
-`Gradio` `LlamaIndex` `Timefold` `MCP`
-> Neuro-symbolic scheduling system that breaks down tasks and optimizes team allocation. Developed for Hugging Face's 2025 AI Agent Hackathon.
-
-#### Timefold Python Contribution 
-`Constraint Solving` `Open Source`
-> Ported meeting scheduling quickstart from Java to Python ([merged upstream](https://github.com/TimefoldAI/timefold-quickstarts))
-
-> Optimized data models for the vehicle routing and meeting scheduling problems, with [benchmarks](https://github.com/blackopsrepl/timefold-quickstarts-python/blob/main/benchmarks/report.md) showing near-Java performance
-
-#### OCR Attendance System 
-`AWS` `Computer Vision`
-> Production system with 99.8% accuracy rate for events attendance tracking
 
 ### 📬 Let's Collaborate
 Reach out if you need:
