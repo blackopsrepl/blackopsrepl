@@ -1,0 +1,116 @@
+/* Hero background blur - initial state set by JS */
+.single_hero_background {
+  transition: backdrop-filter 0.1s ease-out, -webkit-backdrop-filter 0.1s ease-out;
+}
+
+/* Modern balanced layout */
+.max-w-7xl {
+  max-width: 72rem;
+}
+
+.max-w-prose,
+.prose {
+  max-width: 100%;
+}
+
+/* ==========================================
+   MATRIX / TERMINAL EFFECTS
+   ========================================== */
+
+/* CRT Scanlines overlay - barely perceptible */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 9999;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.008) 0px,
+    rgba(0, 0, 0, 0.008) 1px,
+    transparent 1px,
+    transparent 3px
+  );
+}
+
+/* Whisper of phosphor glow on headings */
+h1, h2, h3, .text-4xl, .text-3xl, .text-2xl {
+  text-shadow: 0 0 30px rgba(0, 255, 65, 0.06);
+}
+
+/* Slightly more presence on main title */
+.text-4xl {
+  text-shadow: 0 0 40px rgba(0, 255, 65, 0.08);
+}
+
+/* Links get faint warmth on hover */
+a:hover {
+  text-shadow: 0 0 20px rgba(0, 255, 65, 0.1);
+}
+
+/* Code blocks - just a hint */
+pre, code, .prose code {
+  text-shadow: 0 0 20px rgba(0, 255, 65, 0.05);
+}
+
+/* Cards - imperceptible green tint */
+.rounded-lg:hover, article.rounded-lg:hover {
+  box-shadow: 0 0 40px rgba(0, 255, 65, 0.03);
+}
+
+/* Navigation - gentle presence on hover */
+nav a:hover {
+  text-shadow: 0 0 25px rgba(0, 255, 65, 0.12);
+}
+
+/* Scrollbar - muted green */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 255, 65, 0.12);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 255, 65, 0.2);
+}
+
+/* ==========================================
+   MERMAID DIAGRAMS - Terminal Style
+   ========================================== */
+
+/* Container - clean, fits content width */
+.mermaid {
+  background: rgba(0, 24, 8, 0.7) !important;
+  border: 1px solid rgba(80, 252, 0, 0.3) !important;
+  border-radius: 8px !important;
+  padding: 1.5rem !important;
+  margin: 2rem 0 !important;
+  box-shadow: 0 0 30px rgba(0, 255, 65, 0.05) !important;
+  display: flex !important;
+  justify-content: center !important;
+}
+
+/* SVG scales to fit container */
+.mermaid svg {
+  max-width: 100% !important;
+  width: auto !important;
+  height: auto !important;
+  max-height: 400px !important;
+}
+
+/* Light mode */
+html:not(.dark) .mermaid {
+  background: rgba(240, 255, 240, 0.9) !important;
+  border-color: rgba(56, 176, 0, 0.4) !important;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.08) !important;
+}
