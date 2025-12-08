@@ -11,10 +11,12 @@
 ---
 
 ### 🛠️ Production-Ready Systems
-I engineer systems bridging AI agents and algorithmic tools!
+
+I build things that solve hard problems. My sweet spot is taking powerful but complex technologies - constraint solvers, AI runtimes, optimization engines - and turning them into systems that actually work in production. Python and Rust are my tools of choice.
+
 - **AI Optimization**: Constraint solving (SolverForge, Timefold)
 - **AI Agents**: Production implementations (LlamaIndex/LangChain or in Rust)
-- **Backend Systems**: Python, Rust, Go
+- **Backend Systems**: Python, Rust some Java and some Go
 - **Cloud Automation**: AWS serverless architectures
 
 ---
