@@ -9,7 +9,7 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-logo = "ouro.png"
+logo = "logo.png"
 
 [[params.author.links]]
 email = "mailto:info@vdistefano.studio"
@@ -22,5 +22,6 @@ linkedin = "https://www.linkedin.com/in/vdistefano"
 
 ["params.author"]
 name = "Vittorio Distefano"
-headline = "Software Engineer"
-bio = "Software Engineer specialized in optimization and machine learning."
+image = "img/author.jpg"
+headline = "Software Engineer | Python / Rust"
+bio = "Turning complex tech into systems that actually work."
