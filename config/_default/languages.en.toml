@@ -22,6 +22,5 @@ linkedin = "https://www.linkedin.com/in/vdistefano"
 
 ["params.author"]
 name = "Vittorio Distefano"
-image = "img/author.jpg"
 headline = "Software Engineer | Python / Rust"
 bio = "Turning complex tech into systems that actually work."
