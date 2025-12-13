@@ -20,7 +20,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-defaultFeaturedImage = "."
+# defaultFeaturedImage = ""
 
 [header]
 layout = "basic"
