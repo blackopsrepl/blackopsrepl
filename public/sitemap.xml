@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://www.vdistefano.studio/demos/</loc>
+    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.vdistefano.studio/</loc>
+    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.vdistefano.studio/blog/</loc>
     <lastmod>2025-12-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -10,12 +22,6 @@
   </url>
   <url>
     <loc>https://www.vdistefano.studio/blog/easa-ftl-constraints-flight-crew-scheduling/</loc>
-    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.vdistefano.studio/</loc>
     <lastmod>2025-12-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

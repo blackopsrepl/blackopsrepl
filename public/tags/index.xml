@@ -7,14 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Vittorio Distefano</copyright>
-    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vdistefano.studio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vdistefano.studio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Aviation</title>
       <link>https://www.vdistefano.studio/tags/aviation/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.vdistefano.studio/tags/aviation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://www.vdistefano.studio/tags/demo/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vdistefano.studio/tags/demo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://www.vdistefano.studio/tags/java/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vdistefano.studio/tags/java/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>https://www.vdistefano.studio/tags/optimization/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vdistefano.studio/tags/optimization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://www.vdistefano.studio/tags/python/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vdistefano.studio/tags/python/</guid>
       <description></description>
       
     </item>
@@ -30,41 +70,11 @@
     </item>
     
     <item>
-      <title>Java</title>
-      <link>https://www.vdistefano.studio/tags/java/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vdistefano.studio/tags/java/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Optimization</title>
-      <link>https://www.vdistefano.studio/tags/optimization/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vdistefano.studio/tags/optimization/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Timefold</title>
       <link>https://www.vdistefano.studio/tags/timefold/</link>
       <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.vdistefano.studio/tags/timefold/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://www.vdistefano.studio/tags/python/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vdistefano.studio/tags/python/</guid>
       <description></description>
       
     </item>
