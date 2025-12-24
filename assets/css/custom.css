@@ -17,7 +17,7 @@
    MATRIX / TERMINAL EFFECTS
    ========================================== */
 
-/* CRT Scanlines overlay - barely perceptible */
+/* CRT Scanlines overlay - slightly more visible */
 body::before {
   content: '';
   position: fixed;
@@ -29,8 +29,8 @@ body::before {
   z-index: 9999;
   background: repeating-linear-gradient(
     0deg,
-    rgba(0, 0, 0, 0.008) 0px,
-    rgba(0, 0, 0, 0.008) 1px,
+    rgba(0, 0, 0, 0.015) 0px,
+    rgba(0, 0, 0, 0.015) 1px,
     transparent 1px,
     transparent 3px
   );
@@ -38,32 +38,32 @@ body::before {
 
 /* Whisper of phosphor glow on headings */
 h1, h2, h3, .text-4xl, .text-3xl, .text-2xl {
-  text-shadow: 0 0 30px rgba(0, 255, 65, 0.06);
+  text-shadow: 0 0 30px rgba(0, 255, 65, 0.10);
 }
 
 /* Slightly more presence on main title */
 .text-4xl {
-  text-shadow: 0 0 40px rgba(0, 255, 65, 0.08);
+  text-shadow: 0 0 40px rgba(0, 255, 65, 0.14);
 }
 
 /* Links get faint warmth on hover */
 a:hover {
-  text-shadow: 0 0 20px rgba(0, 255, 65, 0.1);
+  text-shadow: 0 0 20px rgba(0, 255, 65, 0.16);
 }
 
 /* Code blocks - just a hint */
 pre, code, .prose code {
-  text-shadow: 0 0 20px rgba(0, 255, 65, 0.05);
+  text-shadow: 0 0 20px rgba(0, 255, 65, 0.08);
 }
 
-/* Cards - imperceptible green tint */
+/* Cards - subtle green tint */
 .rounded-lg:hover, article.rounded-lg:hover {
-  box-shadow: 0 0 40px rgba(0, 255, 65, 0.03);
+  box-shadow: 0 0 40px rgba(0, 255, 65, 0.05);
 }
 
 /* Navigation - gentle presence on hover */
 nav a:hover {
-  text-shadow: 0 0 25px rgba(0, 255, 65, 0.12);
+  text-shadow: 0 0 25px rgba(0, 255, 65, 0.18);
 }
 
 /* Scrollbar - muted green */
@@ -76,12 +76,12 @@ nav a:hover {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(0, 255, 65, 0.12);
+  background: rgba(0, 255, 65, 0.18);
   border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(0, 255, 65, 0.2);
+  background: rgba(0, 255, 65, 0.28);
 }
 
 /* ==========================================

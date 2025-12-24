@@ -1,0 +1,10 @@
+(function(){const e=()=>{const n=document.querySelectorAll(".single_hero_background"),s=window.pageYOffset||document.documentElement.scrollTop||0,o=400,e=8,i=48,a=Math.min(s/o,1),t=e+(i-e)*a;n.forEach(e=>{e.style.backdropFilter=`blur(${t}px)`,e.style.webkitBackdropFilter=`blur(${t}px)`})};window.addEventListener("scroll",e),window.addEventListener("load",e),e()})(),function(){const e=document.createElement("canvas");e.id="matrix-rain",e.style.cssText=`
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: -1;
+    opacity: 0.14;
+  `,document.body.appendChild(e);const t=e.getContext("2d");let o,n,r,i;const s=[["@constraint","def no_overlap(a, b):","  return a.end <= b.start"],["for task in tasks:","  solver.assign(task)","  total += task.duration"],["class Vehicle:","  def __init__(self):","    self.capacity = 0"],["if solution.optimal:",'  print("Found optimal")',"  return solution"],["model = Model()","x = Variable(0, 10)","model.add(x >= 5)"],["def minimize(cost):","  return solver.solve()","  # optimization"],["schedule = []","for shift in shifts:","  schedule.append(shift)"],["@constraint","def capacity_limit(v):","  return v.load <= v.max"],["result = solver.solve()","if result.feasible:","  apply(result)"],["employees = [",'  Employee("Alice"),','  Employee("Bob")',"]"],["def route_distance(r):","  total = 0","  for i in r:","    total += i"],["constraints = [","  all_different(vars),","  sum(vars) == total","]"]],l=11,a=16;function c(){o=e.width=window.innerWidth,n=e.height=window.innerHeight,r=Math.floor(o/180),i=Array(r).fill(1).map(()=>({y:Math.random()*-50,block:s[Math.floor(Math.random()*s.length)]}))}function d(){t.fillStyle="rgba(0, 0, 0, 0.05)",t.fillRect(0,0,o,n),t.fillStyle="#00ff41",t.font=`${l}px monospace`;for(let o=0;o<i.length;o++){const e=i[o],r=o*180;e.block.forEach((s,o)=>{const i=e.y+o*a;i>0&&i<n+50&&t.fillText(s,r,i)}),e.y+=1,e.y>n+e.block.length*a&&(e.y=-e.block.length*a,e.block=s[Math.floor(Math.random()*s.length)])}}c(),window.addEventListener("resize",c),setInterval(d,60)}()

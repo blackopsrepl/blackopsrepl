@@ -21,7 +21,7 @@
   updateDynamicBlur();
 })();
 
-// Matrix rain effect - subliminal, barely visible
+// Matrix rain effect - slightly more visible
 (function() {
   const canvas = document.createElement('canvas');
   canvas.id = 'matrix-rain';
@@ -33,7 +33,7 @@
     height: 100%;
     pointer-events: none;
     z-index: -1;
-    opacity: 0.012;
+    opacity: 0.025;
   `;
   document.body.appendChild(canvas);
 
@@ -47,7 +47,7 @@
   function resize() {
     width = canvas.width = window.innerWidth;
     height = canvas.height = window.innerHeight;
-    columns = Math.floor(width / (fontSize * 3)); // Sparser columns
+    columns = Math.floor(width / (fontSize * 2.5)); // Slightly denser columns
     drops = Array(columns).fill(1);
   }
 
@@ -59,9 +59,9 @@
     ctx.font = `${fontSize}px monospace`;
 
     for (let i = 0; i < drops.length; i++) {
-      if (Math.random() > 0.97) { // Only draw occasionally
+      if (Math.random() > 0.95) { // Draw slightly more often
         const char = charArray[Math.floor(Math.random() * charArray.length)];
-        const x = i * fontSize * 3;
+        const x = i * fontSize * 2.5;
         const y = drops[i] * fontSize;
         ctx.fillText(char, x, y);
       }
