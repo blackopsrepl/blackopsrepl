@@ -15,7 +15,7 @@
 I build things that solve hard problems. My sweet spot is taking powerful but complex technologies - constraint solvers, AI runtimes, optimization engines - and turning them into systems that actually work in production. Python and Rust are my tools of choice.
 
 - **PlanningAI**: Optimization, Constraint solving (SolverForge, Timefold), Agents (LLamaIndex)
-- **Backend Systems**: Rust, Python some Java and some Go
+- **Backend Systems**: Rust, Python, some Java and some Go
 - **Cloud Automation**: AWS serverless architectures
 
 ---
