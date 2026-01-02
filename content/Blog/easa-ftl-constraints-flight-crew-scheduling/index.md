@@ -1,9 +1,10 @@
 ---
 title: "Implementing EASA Flight Time Limitations in Constraint-Based Crew Scheduling"
 date: 2025-12-13
+author: "Vittorio Distefano"
 draft: false
 description: "How I implemented aviation safety regulations as optimization constraints using Timefold"
-tags: ["Java", "Optimization", "Timefold", "Aviation", "Constraint Programming"]
+tags: ["Java", "Optimization", "Timefold", "Constraint Programming"]
 showHero: false
 showTableOfContents: true
 ---
