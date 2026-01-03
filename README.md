@@ -24,9 +24,7 @@ I build things that solve hard problems. My sweet spot is taking powerful but co
 
 #### Lead Maintainer for [SolverForge](https://github.com/SolverForge)
 `Constraint Solving` `Open Source`
-> Developing a [native Rust bridge](https://github.com/SolverForge/solverforge) to the [Timefold](https://timefold.ai) JVM
-
-> Additionally providing **community support** in the form of [solverforge-legacy](https://github.com/SolverForge/solverforge-legacy) following the [discontinuation of the Python solver](https://github.com/TimefoldAI/timefold-solver/discussions/1698) by the Timefold team.
+> Developing a [heuristic constraint solver in Rust](https://github.com/SolverForge/solverforge)
 
 ### 📬 Let's Collaborate
 Reach out if you need:
