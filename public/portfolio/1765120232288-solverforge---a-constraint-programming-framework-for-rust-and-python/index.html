@@ -21,10 +21,10 @@
 
   
   
-    <meta name="description" content="An open-source optimization framework for Rust and Python">
+    <meta name="description" content="A native constraint solver written in Rust with Python bindings">
   
   
-    <meta name="keywords" content="Python,Rust,WASM,Optimization,SolverForge,Timefold,">
+    <meta name="keywords" content="Python,Rust,Optimization,SolverForge,PyO3,">
   
   
   
@@ -59,7 +59,7 @@
   <meta property="og:url" content="https://www.vdistefano.studio/portfolio/1765120232288-solverforge---a-constraint-programming-framework-for-rust-and-python/">
   <meta property="og:site_name" content="vdistefano.studio">
   <meta property="og:title" content="SolverForge">
-  <meta property="og:description" content="An open-source optimization framework for Rust and Python">
+  <meta property="og:description" content="A native constraint solver written in Rust with Python bindings">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="portfolio">
@@ -67,17 +67,16 @@
     <meta property="article:modified_time" content="2025-12-07T00:00:00+00:00">
     <meta property="article:tag" content="Python">
     <meta property="article:tag" content="Rust">
-    <meta property="article:tag" content="WASM">
     <meta property="article:tag" content="Optimization">
     <meta property="article:tag" content="SolverForge">
-    <meta property="article:tag" content="Timefold">
+    <meta property="article:tag" content="PyO3">
     <meta property="og:image" content="https://www.vdistefano.studio/portfolio/1765120232288-solverforge---a-constraint-programming-framework-for-rust-and-python/featured.png">
 
   
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="https://www.vdistefano.studio/portfolio/1765120232288-solverforge---a-constraint-programming-framework-for-rust-and-python/featured.png">
   <meta name="twitter:title" content="SolverForge">
-  <meta name="twitter:description" content="An open-source optimization framework for Rust and Python">
+  <meta name="twitter:description" content="A native constraint solver written in Rust with Python bindings">
 
   
   
@@ -249,7 +248,7 @@
     "articleSection": "Portfolio",
     "name": "SolverForge",
     "headline": "SolverForge",
-    "description": "An open-source optimization framework for Rust and Python",
+    "description": "A native constraint solver written in Rust with Python bindings",
     
     "inLanguage": "en",
     "url" : "https:\/\/www.vdistefano.studio\/portfolio\/1765120232288-solverforge---a-constraint-programming-framework-for-rust-and-python\/",
@@ -263,10 +262,10 @@
     
     "dateModified": "2025-12-07T00:00:00\u002b00:00",
     
-    "keywords": ["Python","Rust","WASM","Optimization","SolverForge","Timefold"],
+    "keywords": ["Python","Rust","Optimization","SolverForge","PyO3"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "269"
+    "wordCount": "285"
   }]
   </script>
 
@@ -864,7 +863,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-12-07T00:00:00&#43;00:00">7 December 2025</time><span class="px-2 text-primary-500">&middot;</span><span>269 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
+      <time datetime="2025-12-07T00:00:00&#43;00:00">7 December 2025</time><span class="px-2 text-primary-500">&middot;</span><span>285 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
     
 
     
@@ -908,16 +907,6 @@
 
               </a>
             
-              <a class="relative mt-[0.5rem] me-2" href="/tags/wasm/">
-                <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    WASM
-  </span>
-</span>
-
-              </a>
-            
               <a class="relative mt-[0.5rem] me-2" href="/tags/optimization/">
                 <span class="flex cursor-pointer">
   <span
@@ -938,11 +927,11 @@
 
               </a>
             
-              <a class="relative mt-[0.5rem] me-2" href="/tags/timefold/">
+              <a class="relative mt-[0.5rem] me-2" href="/tags/pyo3/">
                 <span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Timefold
+    PyO3
   </span>
 </span>
 
@@ -1073,7 +1062,7 @@
     <li><a href="#architecture">Architecture</a>
       <ul>
         <li><a href="#legacy-python--jpype-production">Legacy: Python + JPype (Production)</a></li>
-        <li><a href="#next-gen-rust--wasmhttp-in-development">Next-Gen: Rust + WASM/HTTP (In Development)</a></li>
+        <li><a href="#native-rust-core-in-development">Native: Rust Core (In Development)</a></li>
       </ul>
     </li>
     <li><a href="#project-timeline">Project Timeline</a></li>
@@ -1096,7 +1085,7 @@
     <li><a href="#architecture">Architecture</a>
       <ul>
         <li><a href="#legacy-python--jpype-production">Legacy: Python + JPype (Production)</a></li>
-        <li><a href="#next-gen-rust--wasmhttp-in-development">Next-Gen: Rust + WASM/HTTP (In Development)</a></li>
+        <li><a href="#native-rust-core-in-development">Native: Rust Core (In Development)</a></li>
       </ul>
     </li>
     <li><a href="#project-timeline">Project Timeline</a></li>
@@ -1120,13 +1109,10 @@
 
         <div class="article-content max-w-prose mb-20">
           <div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
-  An open-source AI constraint solver I&rsquo;m building to continue <a
+  A native constraint solver written from scratch in Rust, inspired by <a
   href="https://timefold.ai"
     target="_blank"
-  >Timefold</a>&rsquo;s <a
-  href="https://github.com/TimefoldAI/timefold-solver/discussions/1698#discussioncomment-13842196"
-    target="_blank"
-  >discontinued Python project</a>.
+  >Timefold</a>. Features a zero-erasure architecture with monomorphization and arena allocation for maximum performance.
 </div>
 
 
@@ -1228,30 +1214,26 @@ graph TD
 </pre>
 
 
-<h3 class="relative group">Next-Gen: Rust + WASM/HTTP (In Development)
-    <div id="next-gen-rust--wasmhttp-in-development" class="anchor"></div>
+<h3 class="relative group">Native: Rust Core (In Development)
+    <div id="native-rust-core-in-development" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#next-gen-rust--wasmhttp-in-development" aria-label="Anchor">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#native-rust-core-in-development" aria-label="Anchor">#</a>
     </span>
     
 </h3>
-<p>The new architecture decouples language bindings from the solver via HTTP. Constraints compile to WebAssembly via the <a
-  href="https://github.com/SolverForge/timefold-wasm-service"
-    target="_blank"
-  >timefold-wasm-service</a> module, enabling language-agnostic support and sandboxed execution.</p>
+<p>The new architecture is a complete native solver written from scratch in Rust. It uses monomorphization for zero-cost constraint abstractions, arena allocation for cache-friendly memory access, and a zero-erasure design that preserves full type information at runtime.</p>
 <pre class="not-prose mermaid">
 graph TD
-    A["Language Binding"]
+    A["Python Model"]
 
-    A --> B["Rust Core"]
-    B --> C["WASM Generator"]
-    C -->|HTTP| D["Quarkus Service"]
-    D --> E["Chicory WASM"]
-    D --> F["Class Generator"]
-    F --> G["Timefold Solver"]
-    G -.->|execute| E
+    A --> B["PyO3 Bindings"]
+    B --> C["Rust Core"]
+    C --> D["Monomorphized Constraints"]
+    D --> E["Arena Allocator"]
+    E --> F["Incremental Score Calculator"]
+    F --> G["Metaheuristic Solver"]
 </pre>
 
 
@@ -1280,7 +1262,7 @@ graph TD
     
       class="dark:text-neutral-300"
     
-    ><strong>Why the change?</strong> JPype requires tight Python-JVM coupling and presents significant overhead, due to runtime type validation for every Pydantic operation. The WASM/HTTP approach guarantees near-native speed and enables Python, Go, C# — any language with a <code>LanguageBridge</code> implementation.</span>
+    ><strong>Why native?</strong> Unlike Java&rsquo;s type erasure, Rust&rsquo;s monomorphization generates specialized code for each constraint type at compile time. Combined with arena allocation, this eliminates runtime overhead from dynamic dispatch and heap fragmentation — delivering predictable, near-optimal performance.</span>
 </div>
 
 <hr>
@@ -1350,12 +1332,12 @@ Providing active maintenance the production-ready Python solver after Timefold d
       </div>
       
         <h4 class="mt-0">
-          Solverforge
+          SolverForge
         </h4>
       
       <div class="mb-6">
         
-Building a Rust-native language bridge with WASM compilation for browser and edge deployment.
+Building a native constraint solver with monomorphization and arena allocation for zero-overhead performance.
 
       </div>
     </div>
@@ -1382,12 +1364,12 @@ Building a Rust-native language bridge with WASM compilation for browser and edg
       </div>
       
         <h4 class="mt-0">
-          LanguageBridge Trait
+          PyO3 Bindings
         </h4>
       
       <div class="mb-6">
         
-Python via PyO3 first - with architecture supporting Go, C# and more.
+Python bindings via PyO3, exposing the native solver with idiomatic Python APIs.
 
       </div>
     </div>
@@ -1445,20 +1427,7 @@ Python via PyO3 first - with architecture supporting Go, C# and more.
         <span class="mr-1"><span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
 <path fill="currentColor"  d="M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z"/></svg></span></span>
       
-      <span>WebAssembly</span>
-    </span>
-  </span>
-</div>
-
-
-<div class="flex mt-2">
-  <span
-    class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal">
-    <span class="flex flex-row items-center">
-      
-        <span class="mr-1"></span>
-      
-      <span>Timefold JVM</span>
+      <span>PyO3</span>
     </span>
   </span>
 </div>

@@ -2,14 +2,14 @@
 title: "SolverForge"
 date: 2025-12-07
 draft: false
-description: "An open-source optimization framework for Rust and Python"
-tags: ["Python", "Rust", "WASM", "Optimization", "SolverForge", "Timefold"]
+description: "A native constraint solver written in Rust with Python bindings"
+tags: ["Python", "Rust", "Optimization", "SolverForge", "PyO3"]
 showHero: false
 showTableOfContents: true
 ---
 
 {{< lead >}}
-An open-source AI constraint solver I'm building to continue [Timefold](https://timefold.ai)'s [discontinued Python project](https://github.com/TimefoldAI/timefold-solver/discussions/1698#discussioncomment-13842196).
+A native constraint solver written from scratch in Rust, inspired by [Timefold](https://timefold.ai). Features a zero-erasure architecture with monomorphization and arena allocation for maximum performance.
 {{< /lead >}}
 
 ## What it solves
@@ -41,25 +41,24 @@ graph TD
     E -.->|callbacks| B
 {{< /mermaid >}}
 
-### Next-Gen: Rust + WASM/HTTP (In Development)
+### Native: Rust Core (In Development)
 
-The new architecture decouples language bindings from the solver via HTTP. Constraints compile to WebAssembly via the [timefold-wasm-service](https://github.com/SolverForge/timefold-wasm-service) module, enabling language-agnostic support and sandboxed execution.
+The new architecture is a complete native solver written from scratch in Rust. It uses monomorphization for zero-cost constraint abstractions, arena allocation for cache-friendly memory access, and a zero-erasure design that preserves full type information at runtime.
 
 {{< mermaid >}}
 graph TD
-    A["Language Binding"]
+    A["Python Model"]
 
-    A --> B["Rust Core"]
-    B --> C["WASM Generator"]
-    C -->|HTTP| D["Quarkus Service"]
-    D --> E["Chicory WASM"]
-    D --> F["Class Generator"]
-    F --> G["Timefold Solver"]
-    G -.->|execute| E
+    A --> B["PyO3 Bindings"]
+    B --> C["Rust Core"]
+    C --> D["Monomorphized Constraints"]
+    D --> E["Arena Allocator"]
+    E --> F["Incremental Score Calculator"]
+    F --> G["Metaheuristic Solver"]
 {{< /mermaid >}}
 
 {{< alert icon="lightbulb" >}}
-**Why the change?** JPype requires tight Python-JVM coupling and presents significant overhead, due to runtime type validation for every Pydantic operation. The WASM/HTTP approach guarantees near-native speed and enables Python, Go, C# — any language with a `LanguageBridge` implementation.
+**Why native?** Unlike Java's type erasure, Rust's monomorphization generates specialized code for each constraint type at compile time. Combined with arena allocation, this eliminates runtime overhead from dynamic dispatch and heap fragmentation — delivering predictable, near-optimal performance.
 {{< /alert >}}
 
 ---
@@ -72,12 +71,12 @@ graph TD
 Providing active maintenance the production-ready Python solver after Timefold deprecated official support.
 {{< /timelineItem >}}
 
-{{< timelineItem icon="shield" header="Rust Core" subheader="Solverforge" >}}
-Building a Rust-native language bridge with WASM compilation for browser and edge deployment.
+{{< timelineItem icon="shield" header="Rust Core" subheader="SolverForge" >}}
+Building a native constraint solver with monomorphization and arena allocation for zero-overhead performance.
 {{< /timelineItem >}}
 
-{{< timelineItem icon="globe" header="Multi-language Support" subheader="LanguageBridge Trait" >}}
-Python via PyO3 first - with architecture supporting Go, C# and more.
+{{< timelineItem icon="globe" header="Multi-language Support" subheader="PyO3 Bindings" >}}
+Python bindings via PyO3, exposing the native solver with idiomatic Python APIs.
 {{< /timelineItem >}}
 
 {{< /timeline >}}
@@ -89,8 +88,7 @@ Python via PyO3 first - with architecture supporting Go, C# and more.
 {{< keywordList >}}
 {{< keyword icon="code" >}} Rust {{< /keyword >}}
 {{< keyword icon="code" >}} Python {{< /keyword >}}
-{{< keyword icon="code" >}} WebAssembly {{< /keyword >}}
-{{< keyword icon="server" >}} Timefold JVM {{< /keyword >}}
+{{< keyword icon="code" >}} PyO3 {{< /keyword >}}
 {{< /keywordList >}}
 
 ---
