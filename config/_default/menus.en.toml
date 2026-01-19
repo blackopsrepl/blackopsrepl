@@ -8,6 +8,11 @@ identifier = "about"
 weight = 10
 
 [[main]]
+name = "Services"
+pageRef = "services"
+weight = 15
+
+[[main]]
 name = "Portfolio"
 pageRef = "Portfolio"
 identifier = "zGDozhDBLR"
