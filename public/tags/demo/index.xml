@@ -20,6 +20,16 @@
     </item>
     
     <item>
+      <title>Employee Scheduling (Rust)</title>
+      <link>https://www.vdistefano.studio/demos/employee-scheduling-rust/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vdistefano.studio/demos/employee-scheduling-rust/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Flight Crew Scheduling (Java)</title>
       <link>https://www.vdistefano.studio/demos/flight-crew-scheduling-java/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
@@ -75,6 +85,16 @@
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.vdistefano.studio/demos/vehicle-routing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vehicle Routing (Rust, pre-release)</title>
+      <link>https://www.vdistefano.studio/demos/vehicle-routing-rust/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vdistefano.studio/demos/vehicle-routing-rust/</guid>
       <description></description>
       
     </item>
