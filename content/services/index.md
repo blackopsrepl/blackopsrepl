@@ -61,7 +61,7 @@ I maintain **[SolverForge](https://github.com/SolverForge/solverforge)**, an ope
 
 ## Ready to solve something hard?
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/vdistefano-info/30min?hide_gdpr_banner=1&hide_event_type_details=1&background_color=00180b&text_color=7effba&primary_color=50fc00" style="min-width:320px;height:700px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/vdistefano-info/one-on-one?hide_gdpr_banner=1&hide_event_type_details=1&background_color=00180b&text_color=7effba&primary_color=50fc00" style="min-width:320px;height:700px;"></div>
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 
 Prefer email? {{< button href="mailto:info@vdistefano.studio" >}}{{< icon "email" >}} Get in touch{{< /button >}}
