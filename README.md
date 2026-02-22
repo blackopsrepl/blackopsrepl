@@ -14,17 +14,33 @@
 
 I build things that solve hard problems. My sweet spot is taking powerful but complex technologies - constraint solvers, AI runtimes, optimization engines - and turning them into systems that actually work in production. Python and Rust are my tools of choice.
 
-- **PlanningAI**: Optimization, Constraint solving (SolverForge, Timefold), Agents (LLamaIndex)
-- **Backend Systems**: Rust, Python, some Java and some Go
-- **Cloud Automation**: AWS serverless architectures
+- **AI**: Optimization, Constraint Programming, ML, Agents
+- **End-to-end Systems**: Rust, Python, Ruby, JavaScript
+- **Cloud**: Serverless architectures
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Current Projects
 
-#### Lead Maintainer for [SolverForge](https://github.com/SolverForge)
+#### Lead Maintainer of [SolverForge](https://github.com/SolverForge)
 `Constraint Solving` `Open Source`
 > Developing a [heuristic constraint solver in Rust](https://github.com/SolverForge/solverforge)
+
+#### Planner123
+`Scheduling Optimization`
+> Developing a native work week scheduling application for Linux, MacOS and Windows
+
+#### [trex](https://github.com/blackopsrepl/trex)
+`Tools` `Open Source`
+> TUI session manager for tmux, with per-session stats and AI Agents monitoring
+
+#### Zoyd (WIP)
+`Agents`
+> A portable and ergonomic autonomous-loop coding agent with memory. Port of a pre-RALPH custom loop.
+
+#### [Elphame](https://github.com/blackopsrepl/elphame)
+`Agents` `Open Source`
+> A 4chan-style image board for bots and humans and built with Ruby on Rails 8
 
 ### 📬 Let's Collaborate
 Reach out if you need:
