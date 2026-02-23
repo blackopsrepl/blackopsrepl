@@ -1,5 +1,5 @@
 # Vittorio Distefano
-**Software Engineer | AI Automation & Optimization**  
+**Software Engineer | Founder | AI Planning Optimization**  
 `Python` · `Rust` · `Constraint Programming` · `Cloud Systems`
 
 [![Website](https://img.shields.io/badge/Portfolio-vdistefano.studio-purple?style=flat&logo=googlechrome)](https://www.vdistefano.studio)
@@ -15,16 +15,16 @@
 I build things that solve hard problems. My sweet spot is taking powerful but complex technologies - constraint solvers, AI runtimes, optimization engines - and turning them into systems that actually work in production. Python and Rust are my tools of choice.
 
 - **AI**: Optimization, Constraint Programming, ML, Agents
-- **End-to-end Systems**: Rust, Python, Ruby, JavaScript
+- **End-to-end Systems**: Rust, Ruby, Python, JavaScript
 - **Cloud**: Serverless architectures
 
 ---
 
 ### 🚀 Current Projects
 
-#### Lead Maintainer of [SolverForge](https://github.com/SolverForge)
+#### Founder of [SolverForge](https://github.com/SolverForge)
 `Constraint Solving` `Open Source`
-> Developing a [heuristic constraint solver in Rust](https://github.com/SolverForge/solverforge)
+> Building a [heuristic constraint solver in Rust](https://github.com/SolverForge/solverforge)
 
 #### Planner123
 `Scheduling Optimization`
