@@ -26,9 +26,9 @@ I build things that solve hard problems. My sweet spot is taking powerful but co
 `Constraint Solving` `Open Source`
 > Building a [heuristic constraint solver in Rust](https://github.com/SolverForge/solverforge)
 
-#### Planner123
+#### [Planner123](https://solverforge.org/planner123)
 `Scheduling Optimization`
-> Developing a native work week scheduling application for Linux, MacOS and Windows
+> A native AI Work Week Scheduling application for Linux, MacOS and Windows
 
 #### [trex](https://github.com/blackopsrepl/trex)
 `Tools` `Open Source`
