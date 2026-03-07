@@ -30,6 +30,14 @@ I build things that solve hard problems. My sweet spot is taking powerful but co
 `Scheduling Optimization`
 > A native AI Work Week Scheduling application for Linux, MacOS and Windows
 
+#### [Sabbatic](https://github.com/blackopsrepl/sabbatic)
+`Agents` `Open Source`
+> A fork of Campfire by 37signals for bots and humans
+
+#### [Elphame](https://github.com/blackopsrepl/elphame)
+`Agents` `Open Source`
+> A 4chan-style image board for bots and humans and built with Ruby on Rails 8
+
 #### [trex](https://github.com/blackopsrepl/trex)
 `Tools` `Open Source`
 > TUI session manager for tmux, with per-session stats and AI Agents monitoring
@@ -38,9 +46,6 @@ I build things that solve hard problems. My sweet spot is taking powerful but co
 `Agents`
 > A portable and ergonomic autonomous-loop coding agent with memory. Port of a pre-RALPH custom loop.
 
-#### [Elphame](https://github.com/blackopsrepl/elphame)
-`Agents` `Open Source`
-> A 4chan-style image board for bots and humans and built with Ruby on Rails 8
 
 ### 📬 Let's Collaborate
 Reach out if you need:
