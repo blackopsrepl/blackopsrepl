@@ -42,10 +42,21 @@ I build things that solve hard problems. My sweet spot is taking powerful but co
 `Tools` `Open Source`
 > TUI session manager for tmux, with per-session stats and AI Agents monitoring
 
-#### Zoyd (WIP)
+#### Zoyd
 `Agents`
 > A portable and ergonomic autonomous-loop coding agent with memory. Port of a pre-RALPH custom loop.
 
+#### solverforge-linux
+> A sway configuration I'm using on my daily driver. Inspired by Omarchy
+
+### solverforge-calendar
+> CLI calendar application built with ratatui
+
+### solverforge-mail
+> CLI mail client built with ratatui
+
+#### solverforge-gpt
+> A laser focused LLM trained to split tasks into subtasks
 
 ### 📬 Let's Collaborate
 Reach out if you need:
