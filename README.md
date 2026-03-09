@@ -42,8 +42,8 @@ I build things that solve hard problems. My sweet spot is taking powerful but co
 `Tools` `Open Source`
 > TUI session manager for tmux, with per-session stats and AI Agents monitoring
 
-#### zoyd
-`Agents`
+#### [zoyd](https://github.com/blackopsrepl/zoyd)
+`Agents` `Open Source`
 > A portable and ergonomic autonomous-loop coding agent with memory. Port of a pre-RALPH custom loop.
 
 #### [solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)
