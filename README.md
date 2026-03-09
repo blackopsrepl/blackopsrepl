@@ -49,13 +49,16 @@ I build things that solve hard problems. My sweet spot is taking powerful but co
 #### solverforge-linux
 > A sway configuration I'm using on my daily driver. Inspired by Omarchy
 
-#### solverforge-calendar
-> CLI calendar application built with ratatui
+#### [solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar)
+`Tools` `Open Source`
+> A CLI calendar application built with ratatui
 
-#### [solverforge-mail](https://github.com/blackopsrepl/solverforge-mail.git)
-> CLI mail client built with ratatui
+#### [solverforge-mail](https://github.com/blackopsrepl/solverforge-mail)
+`Tools` `Open Source`
+> A CLI mail client built with ratatui
 
-#### solverforge-gpt
+#### [solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)
+`Machine Learning` `Open Source`
 > A laser focused LLM trained to split tasks into subtasks
 
 ### 📬 Let's Collaborate
