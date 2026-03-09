@@ -52,7 +52,7 @@ I build things that solve hard problems. My sweet spot is taking powerful but co
 #### solverforge-calendar
 > CLI calendar application built with ratatui
 
-#### solverforge-mail
+#### [solverforge-mail](https://github.com/blackopsrepl/solverforge-mail.git)
 > CLI mail client built with ratatui
 
 #### solverforge-gpt
