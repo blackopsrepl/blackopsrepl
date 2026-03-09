@@ -44,7 +44,7 @@ I build things that solve hard problems. My sweet spot is taking powerful but co
 
 #### [zoyd](https://github.com/blackopsrepl/zoyd)
 `Agents` `Open Source`
-> A portable and ergonomic autonomous-loop coding agent with memory. Port of a pre-RALPH custom loop.
+> A portable and ergonomic autonomous-loop coding agent with memory.
 
 #### [solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)
 > A sway configuration I'm using on my daily driver. Inspired by Omarchy
