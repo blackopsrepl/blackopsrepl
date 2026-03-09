@@ -46,7 +46,7 @@ I build things that solve hard problems. My sweet spot is taking powerful but co
 `Agents`
 > A portable and ergonomic autonomous-loop coding agent with memory. Port of a pre-RALPH custom loop.
 
-#### solverforge-linux
+#### [solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)
 > A sway configuration I'm using on my daily driver. Inspired by Omarchy
 
 #### [solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar)
