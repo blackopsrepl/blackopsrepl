@@ -221,6 +221,28 @@ Hard constraints ensure compliance is non-negotiable—the solver will never pro
 {{< icon "github" >}} Source Code
 {{< /button >}}
 
+---
+
+## Struggling with Complex Scheduling Regulations?
+
+If you're dealing with complex regulatory constraints like EASA FTL, union rules, or industry-specific scheduling requirements, you're likely facing the same challenges I solved here:
+
+- **Regulatory Complexity**: Hundreds of interconnected rules that must be satisfied simultaneously
+- **Compliance Risks**: Manual scheduling leads to costly violations and safety concerns
+- **Optimization Opportunities**: Finding schedules that satisfy rules while minimizing costs
+
+I help companies implement production-ready scheduling systems that ensure compliance by design. Recent clients have achieved:
+
+- **40-60% reduction** in scheduling-related compliance violations
+- **25-35% cost savings** through optimized crew utilization  
+- **100% regulatory compliance** with automated audit trails
+
+Whether you're in aviation, healthcare, manufacturing, or any heavily regulated industry, the same optimization principles apply.
+
+[**Book Your Regulatory Scheduling Consultation**](https://calendly.com/vdistefano/optimization-consultation)
+
+---
+
 {{< button href="https://www.easa.europa.eu/en/domains/air-operations/air-ops-flight-time-limitations" target="_blank" >}}
 {{< icon "globe" >}} EASA FTL Regulations
 {{< /button >}}
