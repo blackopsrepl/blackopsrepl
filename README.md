@@ -1,6 +1,6 @@
 # Vittorio Distefano
 **Software Engineer | Founder | AI Planning Optimization**  
-`Python` · `Rust` · `Constraint Programming` · `Cloud Systems`
+`Rust` · `Ruby` · `Python` · `Constraint Programming` · `Cloud Systems`
 
 [![Website](https://img.shields.io/badge/Portfolio-vdistefano.studio-purple?style=flat&logo=googlechrome)](https://www.vdistefano.studio)
 [![SolverForge](https://img.shields.io/badge/SolverForge-orange?style=flat&logo=rust)](https://www.solverforge.org)
