@@ -107,6 +107,6 @@ Python bindings via PyO3, exposing the native solver with idiomatic Python APIs.
 {{< icon "code" >}} PyPI
 {{< /button >}}
 
-{{< button href="https://huggingface.co/spaces/solverforge/" target="_blank" >}}
-{{< icon "wand-magic-sparkles" >}} HuggingFace
+{{< button href="https://huggingface.co/spaces/SolverForge/" target="_blank" >}}
+{{< icon "wand-magic-sparkles" >}} HuggingFace (Rust Demos)
 {{< /button >}}

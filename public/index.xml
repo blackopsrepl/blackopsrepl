@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vdistefano.studio</title>
+    <title>Vittorio Distefano on vdistefano.studio</title>
     <link>https://www.vdistefano.studio/</link>
-    <description>Recent content on vdistefano.studio</description>
+    <description>Recent content in Vittorio Distefano on vdistefano.studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Vittorio Distefano</copyright>
@@ -17,16 +17,6 @@
       <guid>https://www.vdistefano.studio/portfolio/zoyd/zoyd/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.vdistefano.studio/portfolio/zoyd/zoyd/featured.png" />
-    </item>
-    
-    <item>
-      <title>When Excel Scheduling Costs You 20%&#43;: The Hidden Cost of Manual Optimization</title>
-      <link>https://www.vdistefano.studio/blog/when-excel-scheduling-costs-you-20-percent/</link>
-      <pubDate>Mon, 02 Feb 2026 19:30:37 +0100</pubDate>
-      
-      <guid>https://www.vdistefano.studio/blog/when-excel-scheduling-costs-you-20-percent/</guid>
-      <description></description>
-      
     </item>
     
     <item>
@@ -90,7 +80,7 @@
     </item>
     
     <item>
-      <title>Services</title>
+      <title>Advisory</title>
       <link>https://www.vdistefano.studio/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

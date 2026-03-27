@@ -20,7 +20,7 @@ github = "https://github.com/blackopsrepl"
 [[params.author.links]]
 linkedin = "https://www.linkedin.com/in/vdistefano"
 
-["params.author"]
+[params.author]
 name = "Vittorio Distefano"
-headline = "Software Engineer | Python / Rust"
-bio = "Turning complex tech into systems that actually work."
+headline = ""
+bio = "Founder of SolverForge. Engineer across optimization, systems engineering, and applied AI."
