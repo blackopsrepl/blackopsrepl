@@ -1,6 +1,6 @@
 ---
 title: "Demos"
-description: "Interactive proof surfaces for optimization and planning work"
+description: "Interactive demos for optimization, planning, and decision systems"
 showDate: false
 showReadingTime: false
 showWordCount: false
@@ -9,48 +9,49 @@ showTableOfContents: false
 ---
 
 {{< lead >}}
-These demos exist to make the work legible.
-Instead of asking for abstract trust, they show how scheduling, routing, and allocation systems behave in concrete domains.
+These demos exist because some systems are easier to understand once you can touch them.
+Scheduling, routing, and allocation work becomes far more legible when you can see the constraints, inputs, and outcomes in motion.
 {{< /lead >}}
 
-This is a proof surface, not just a gallery.
-The point is to let people see the shape of the problems, the interfaces, and the kinds of systems behind them.
+I like demos that do more than decorate a project.
+The good ones reveal how a system thinks.
 
 ---
 
-## How to use these demos
+## What these demos show
 
-- Start with **employee scheduling** or **vehicle routing** if you want the fastest understanding of the core optimization story
-- Use the Rust variants when you want to see the newer technical direction more clearly
-- Treat older or legacy demos as lineage and problem-domain proof, not necessarily the current primary stack story
-
----
-
-## What these demos are meant to prove
-
-- real optimization domains, not toy abstractions
-- practical UX around planning systems
-- continuity between technical ideas and usable interfaces
-- breadth across scheduling, routing, allocation, and related planning problems
+- real planning domains rather than toy abstractions
+- the interface between modeling and usability
+- how constraints shape outcomes
+- the practical side of optimization work
 
 ---
 
-## Suggested starting points
+## Where to begin
 
 ### Employee Scheduling
-Best first stop for understanding constraints, assignments, and operational planning.
+A strong first example if you want to understand how planning systems behave under operational constraints.
 
 ### Vehicle Routing
-Best proof of spatial + capacity + sequencing complexity.
+A better example when the interesting part is sequencing, geography, capacity, and combinatorial complexity.
 
 ### Portfolio Optimization / VM Placement
-Useful for showing breadth beyond classic workforce/logistics planning.
+Useful if you want to see the work extend beyond classic workforce or logistics scenarios.
 
 ---
 
-## Route correctly
+## How to read them
 
-- Want the founder/background layer? → [About](/about/)
+Some demos are newer and closer to the current technical direction.
+Others are older, but still useful because they show continuity: the same kinds of problems, explored across different implementations and stages of maturity.
+
+If you are evaluating the work, pay attention to the domains, the decisions exposed in the UI, and the way each demo makes a hard problem understandable.
+
+---
+
+## Elsewhere
+
 - Want selected project writeups? → [Portfolio](/Portfolio/)
+- Want founder background and context? → [About](/about/)
 - Want the product/docs ecosystem? → [SolverForge](https://solverforge.org)
-- Want commercial delivery? → [SolverForge AI](https://solverforge.ai)
+- Want commercial work? → [SolverForge AI](https://solverforge.ai)

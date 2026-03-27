@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-description: "Selected work across optimization, systems engineering, developer tooling, and applied AI"
+description: "Selected projects across optimization, systems engineering, developer tooling, and applied AI"
 showDate: false
 showReadingTime: false
 showWordCount: false
@@ -9,49 +9,56 @@ showTableOfContents: false
 ---
 
 {{< lead >}}
-This portfolio is intentionally selective.
-It is here to show range, depth, and technical judgment — not to act as a dump of everything I've ever touched.
+This portfolio is a curated view of the work.
+Not everything I’ve done belongs here — only the projects that say something real about how I think, build, and choose problems.
 {{< /lead >}}
 
-These projects are the most useful proof of how I work across optimization, systems engineering, developer tooling, and applied AI.
+The common thread is not industry or stack.
+It is technical seriousness: systems with real constraints, meaningful tradeoffs, and enough complexity to reward careful design.
 
 ---
 
-## How to read this page
+## What you’ll see here
 
-- Start with **SolverForge** for the clearest signal on optimization systems, architecture, and technical product thinking
-- Read **Yuga Planner** for agentic scheduling and neuro-symbolic experimentation
-- Read **trex** for developer tooling, interface design, and Rust implementation taste
-
----
-
-## What this portfolio is meant to prove
-
-- ability to work on technically serious systems, not just surface-level apps
-- range across product architecture, optimization, tooling, and AI-adjacent work
-- preference for legible systems, sharp boundaries, and practical delivery
-- taste: fewer projects, stronger signal
+- optimization and planning systems
+- developer tools and interfaces
+- experiments at the boundary of AI and structured problem-solving
+- projects that reveal engineering judgment, not just output
 
 ---
 
-## Primary proof pieces
+## Good places to start
 
 ### SolverForge
-The flagship technical proof.
-A constraint solver and ecosystem spanning modeling, runtime design, docs, demos, and product architecture.
+The clearest signal.
+A constraint solver and ecosystem that reflects how I think about modeling, runtime design, performance, developer experience, and product shape.
 
 ### Yuga Planner
-A prototype at the boundary of LLM orchestration and optimization.
-Useful as proof of experimentation, synthesis, and taste around where AI should and should not sit in the stack.
+A more exploratory project at the boundary of orchestration, planning, and AI.
+Useful less as a product and more as evidence of synthesis and technical taste.
 
 ### trex
-A smaller but cleaner proof of implementation style.
-Useful for demonstrating Rust ergonomics, CLI/TUI design, and execution discipline.
+A smaller project, but a clean one.
+Useful for seeing implementation style, Rust ergonomics, CLI/TUI design, and attention to detail.
 
 ---
 
-## Route correctly
+## What this page is for
 
-- Want the company/commercial path? → [SolverForge AI](https://solverforge.ai)
-- Want the product/docs surface? → [SolverForge](https://solverforge.org)
-- Want interactive proof? → [Demos](/Demos/)
+If you want a fast read on the kind of engineer I am, this page will tell you more than a résumé ever could.
+
+Look for patterns:
+
+- preference for sharp system boundaries
+- comfort with hard technical domains
+- interest in tools that make complexity usable
+- bias toward clarity, leverage, and practical depth
+
+---
+
+## Elsewhere
+
+- Want interactive examples? → [Demos](/Demos/)
+- Want background and context? → [About](/about/)
+- Want the broader product/docs ecosystem? → [SolverForge](https://solverforge.org)
+- Want commercial work? → [SolverForge AI](https://solverforge.ai)
