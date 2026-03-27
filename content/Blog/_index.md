@@ -14,7 +14,7 @@ Usually that means optimization in practice, system design under real constraint
 {{< /lead >}}
 
 This is not a content treadmill.
-It is a place for essays, notes, and arguments that carry some weight.
+It is a place for essays, notes, and arguments worth reading slowly.
 
 ---
 

@@ -35,7 +35,7 @@ A constraint solver and ecosystem that reflects how I think about modeling, runt
 
 ### Yuga Planner
 A more exploratory project at the boundary of orchestration, planning, and AI.
-Useful less as a product and more as evidence of synthesis and technical taste.
+Less interesting as a product than as evidence of synthesis and technical taste.
 
 ### trex
 A smaller project, but a clean one.
