@@ -1,6 +1,6 @@
 ---
-title: "Services"
-description: "Consulting services for planning, scheduling, and optimization systems"
+title: "Advisory"
+description: "Founder-led advisory on optimization, architecture, and technically serious software"
 showDate: false
 showReadingTime: false
 showWordCount: false
@@ -9,59 +9,79 @@ showTableOfContents: false
 ---
 
 {{< lead >}}
-I help teams solve hard optimization problems - scheduling, routing, resource allocation - and ship systems that actually work in production.
+I work best at the early and decisive stages of technically difficult projects: when the team needs clarity, sharper modeling, and better architectural judgment before expensive implementation begins.
 {{< /lead >}}
+
+This is not a generic agency services page.
+It is a focused offer for teams that want direct founder-level thinking on hard systems problems.
+
+For larger implementation or broader commercial engagements, visit **[SolverForge AI](https://solverforge.ai)**.
+
+---
+
+## Where I can help most
 
 {{< timeline >}}
 
-{{< timelineItem icon="scale-balanced" header="Planning & Scheduling Consulting" badge="Strategy" md="true" >}}
-Model and solve complex scheduling, routing, and resource allocation problems.
+{{< timelineItem icon="search" header="Technical Discovery" badge="Discovery" md="true" >}}
+For teams trying to determine whether a difficult product or planning problem is actually worth building — and what shape a serious first version should take.
 
-- Constraint programming architecture
-- Algorithm selection (constraint propagation, local search, hybrid approaches)
-- Problem formulation and model design
-- Scalability planning for production workloads
+- feasibility assessment
+- problem framing
+- constraint and objective clarification
+- first-pass architecture direction
 {{< /timelineItem >}}
 
-{{< timelineItem icon="code" header="Porting & Migration Projects" badge="Implementation" md="true" >}}
-Cross-language ports that preserve semantics while gaining performance.
+{{< timelineItem icon="scale-balanced" header="Optimization Strategy" badge="Advisory" md="true" >}}
+For scheduling, routing, allocation, and other combinatorial systems where the model is not yet strong enough, the search strategy is unclear, or the tradeoffs are poorly understood.
 
-- AI-assisted large-scale refactoring across language boundaries
-- Cross-platform compilation and WASM targeting
-- Python to Rust performance rewrites
-- API design and system integration
+- model design review
+- solver strategy
+- tradeoff analysis
+- delivery-shape recommendations
 {{< /timelineItem >}}
 
-{{< timelineItem icon="search" header="Audits & Prototyping" badge="Discovery" md="true" >}}
-Understand what's possible before committing to a full build.
+{{< timelineItem icon="code" header="Architecture Reviews" badge="Technical Review" md="true" >}}
+For teams making consequential decisions about language boundaries, runtimes, APIs, jobs, services, migrations, or prototypes that need a more experienced second pass.
 
-- Performance profiling of existing systems
-- Feasibility assessments ("can this be solved efficiently?")
-- Proof-of-concept development
-- Rapid prototypes with realistic data
+- Python ↔ Rust boundary decisions
+- API / job / service boundary review
+- migration and refactor direction
+- prototype or proof-of-concept critique
 {{< /timelineItem >}}
 
 {{< /timeline >}}
 
 ---
 
-## Expertise
+## Best fit
 
-{{< keywordList >}}
-{{< keyword icon="code" >}} Constraint Programming {{< /keyword >}}
-{{< keyword icon="code" >}} Operations Research {{< /keyword >}}
-{{< keyword icon="code" >}} Python / Rust {{< /keyword >}}
-{{< /keywordList >}}
+This is usually a good fit when:
 
-{{< alert icon="github" >}}
-I maintain **[SolverForge](https://github.com/SolverForge/solverforge)**, an open-source constraint solver. Many of my consulting projects leverage this foundation.
-{{< /alert >}}
+- the problem is real, but the right system shape is still unclear
+- performance, constraints, or scale make naive implementation risky
+- the team wants technical judgment, not just more code
+- a short, rigorous intervention could prevent months of wrong turns
 
 ---
 
-## Ready to solve something hard?
+## Why this work exists
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/vdistefano-info/one-on-one?hide_gdpr_banner=1&hide_event_type_details=1&background_color=00180b&text_color=7effba&primary_color=50fc00" style="min-width:320px;height:700px;"></div>
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+I maintain **[SolverForge](https://github.com/SolverForge/solverforge)**, an open-source constraint solver, and I’ve spent years working across optimization, production systems, applied AI, migrations, and data-intensive software.
 
-Prefer email? {{< button href="mailto:info@vdistefano.studio" >}}{{< icon "email" >}} Get in touch{{< /button >}}
+So this advisory work is not detached from practice.
+It comes directly from building real systems, shipping them, and living with the consequences of good and bad technical decisions.
+
+---
+
+## Next step
+
+If you want direct input on a hard technical problem, email **[info@vdistefano.studio](mailto:info@vdistefano.studio)** with a short description of the situation.
+
+If the need is a larger implementation, integration, or commercial engagement, the right path is **[SolverForge AI](https://solverforge.ai)**.
+
+{{< keywordList >}}
+{{< keyword icon="email" >}} [Email Vittorio](mailto:info@vdistefano.studio) {{< /keyword >}}
+{{< keyword icon="building" >}} [Go to SolverForge AI](https://solverforge.ai) {{< /keyword >}}
+{{< keyword icon="shield" >}} [Explore SolverForge](https://solverforge.org) {{< /keyword >}}
+{{< /keywordList >}}
