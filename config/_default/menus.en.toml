@@ -1,7 +1,4 @@
 [[main]]
-none = "none"
-
-[[main]]
 name = "About"
 pageRef = "about"
 identifier = "about"
@@ -24,6 +21,3 @@ name = "Blog"
 pageRef = "Blog"
 identifier = "JfOAp6veZf"
 weight = 30
-
-[[footer]]
-none = "none"

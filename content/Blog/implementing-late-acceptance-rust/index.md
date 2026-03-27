@@ -286,23 +286,6 @@ Next time you reach for Simulated Annealing, consider Late Acceptance first. You
 
 ---
 
----
+## Resources
 
-## Need Help Implementing This in Production?
-
-Building efficient metaheuristics is complex—getting the performance details right takes experience. If you need to implement advanced optimization algorithms like Late Acceptance in your business applications, I can help:
-
-- **Performance Optimization**: Rust implementations that are both fast and maintainable
-- **Algorithm Selection**: Choose the right metaheuristic for your specific problem domain  
-- **Integration Services**: Connect optimization engines to your existing systems
-- **Performance Audits**: Identify bottlenecks in current optimization implementations
-
-Most of my clients achieve 3-5x performance improvements in their optimization systems after a targeted engagement.
-
-[**Schedule Your Optimization Consultation**](https://calendly.com/vdistefano/optimization-consultation)
-
----
-
-{{< button href="https://www.sciencedirect.com/science/article/pii/S0377221716305495" target="_blank" >}}
-{{< icon "globe" >}} Original LAHC Paper (Burke & Bykov)
-{{< /button >}}
+- [Original LAHC Paper (Burke & Bykov)](https://www.sciencedirect.com/science/article/pii/S0377221716305495) — The foundational research paper

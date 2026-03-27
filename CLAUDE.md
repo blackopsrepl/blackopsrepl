@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Hugo static site for vdistefano.studio, a personal portfolio and blog for a software engineer. It uses the Blowfish theme (included as a git submodule).
+This is the Hugo source for `vdistefano.studio`, a founder trust surface around SolverForge, selected technical work, demos, and writing. Blowfish is the base theme, but the public experience is increasingly driven by project-owned content, partials, and overrides.
 
 ## Commands
 
@@ -39,18 +39,18 @@ hugo new Portfolio/my-project/index.md
 - `content/Portfolio/` - Portfolio items
 - `content/images/` - Content images
 
-### Theme
-The Blowfish theme is a git submodule at `themes/blowfish/`. Update with:
+### Theme base
+Blowfish remains the base theme at `themes/blowfish/`. Update with:
 ```bash
 git submodule update --remote --merge
 ```
 
 ### Deployment
-GitHub Actions workflow (`.github/workflows/hugo.yaml`) builds and deploys to GitHub Pages on push to main. Uses Hugo extended v0.152.2.
+GitHub Actions workflow (`.github/workflows/hugo.yaml`) builds and deploys to GitHub Pages on push to `main`. Uses Hugo extended v0.152.2.
 
 ## Key Configuration Notes
 
-- Homepage layout: `profile` with recent items in card view
+- Homepage layout: minimal `profile` landing
 - Color scheme: `terminal` with auto light/dark switching
 - Math support enabled via Goldmark passthrough delimiters (`\[...\]`, `$$...$$`, `\(...\)`)
 - Unsafe HTML rendering enabled in markdown

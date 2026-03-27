@@ -17,6 +17,14 @@ It is a focused offer for teams that want direct founder-level thinking on hard 
 
 For larger implementation or broader commercial engagements, visit **[SolverForge AI](https://solverforge.ai)**.
 
+{{< mermaid >}}
+flowchart LR
+  discovery[Technical discovery] --> framing[Problem framing]
+  framing --> strategy[Optimization strategy]
+  strategy --> review[Architecture review]
+  review --> next[Sharper next step]
+{{< /mermaid >}}
+
 ---
 
 ## Where I can help most
