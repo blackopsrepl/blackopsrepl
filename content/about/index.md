@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Founder of SolverForge and engineer across optimization, AI, and production systems"
+description: "Founder of SolverForge and engineer across optimization, systems, and applied AI"
 showDate: false
 showReadingTime: false
 showWordCount: false
@@ -9,10 +9,11 @@ showTableOfContents: false
 ---
 
 {{< lead >}}
-I'm Vittorio, a software engineer based in Northern Italy. I build systems for problems that do not yield to happy-path software.
+I'm Vittorio, a software engineer based in Northern Italy. I build systems for problems that become interesting the moment the easy approach stops working.
 {{< /lead >}}
 
-My sweet spot is taking powerful but complex technologies — constraint solvers, AI runtimes, optimization engines, runtime boundaries — and turning them into systems that actually work in production.
+My work tends to cluster around optimization, system design, and applied AI.
+I’m most at home when the challenge is not just writing software, but deciding **how the problem should be modeled**, **where the complexity belongs**, and **what kind of system can actually hold up in production**.
 
 {{< keywordList >}}
 {{< keyword icon="code" >}} Rust {{< /keyword >}}
@@ -22,66 +23,64 @@ My sweet spot is taking powerful but complex technologies — constraint solvers
 
 ---
 
-## What this site is
+## What I work on
 
-This is the **founder trust surface**.
-It exists to answer a simple question: **why trust Vittorio to lead this kind of work?**
+I’m the creator and lead maintainer of [SolverForge](https://github.com/SolverForge/solverforge), an open-source constraint solver for Rust and Python.
+It is built for scheduling, routing, resource allocation, and other combinatorial planning problems — the kinds of problems that expose whether a system has real modeling depth or just a nice interface.
 
-- For the **company/commercial path**, go to [SolverForge AI](https://solverforge.ai)
-- For the **product, docs, releases, and technical ecosystem**, go to [SolverForge](https://solverforge.org)
-- This site stays focused on background, selected work, and credibility
+That project says a lot about how I work:
+I care about performance, clear abstractions, practical APIs, and tools that are strong enough to be useful without becoming unreadable.
 
----
-
-## Current line of work
-
-Currently, I'm the lead maintainer of [SolverForge](https://github.com/SolverForge/solverforge), an open-source constraint solver for Rust and Python. It handles scheduling, routing, resource allocation, and the kind of combinatorial planning problems that break spreadsheet workflows and brute-force approaches.
-
-Before going freelance, I spent years building data pipelines processing hundreds of thousands of daily events, shipping AI MVPs, and migrating legacy systems to modern stacks. I've worked across startups, enterprise consulting, and academic research, including a stint at the University of Bern building medical research platforms.
+Beyond SolverForge, I’ve worked across data-intensive systems, applied AI, migration projects, and production software in startup, consulting, and research environments.
+That includes building data pipelines processing hundreds of thousands of daily events, shipping AI MVPs, modernizing legacy systems, and contributing to research platforms at the University of Bern.
 
 ---
 
-## Core areas
+## How I think
 
 {{< keywordList >}}
-{{< keyword icon="server" >}} Backend Systems {{< /keyword >}}
 {{< keyword icon="scale-balanced" >}} Optimization & Planning {{< /keyword >}}
+{{< keyword icon="server" >}} Systems Engineering {{< /keyword >}}
 {{< keyword icon="sparkles" >}} Applied AI {{< /keyword >}}
 {{< /keywordList >}}
 
-**Backend systems** — APIs, service boundaries, runtime integration, production architecture
+**Optimization & planning**
+I’m drawn to systems where tradeoffs are explicit: scarce resources, competing constraints, hard objectives, imperfect inputs. These problems reward rigor.
 
-**Optimization & planning** — scheduling, routing, allocation, constraint modeling, solver behavior
+**Systems engineering**
+I like sharp boundaries, pragmatic architecture, and software that remains legible even when the domain is not. I care a lot about where complexity lives.
 
-**Applied AI** — AI systems where orchestration, interfaces, and operational discipline matter as much as the model
+**Applied AI**
+I’m interested in AI as part of a system, not as a theatrical substitute for one. The interesting work is usually in orchestration, interfaces, reliability, and product shape.
 
 ---
 
-## Why this should transfer trust
+## What I value in engineering
 
-- creator and maintainer of SolverForge
-- hands-on builder across Rust, Ruby, and Python stacks
-- experience across consulting, product engineering, infrastructure, and research contexts
-- selected public artifacts: open-source code, demos, technical writing, and portfolio work
+- technical depth over trend-chasing
+- clear models over vague cleverness
+- performance where it matters
+- product sense without hand-waving
+- software that can survive production reality
 
 ---
 
 ## Current focus
 
 {{< alert icon="rocket" >}}
-Building out **SolverForge** — writing Rust, sharpening the public technical surface, and making constraint solving more usable in real software.
+Building **SolverForge** — writing Rust, improving the public technical surface, and making constraint solving more usable in real software.
 {{< /alert >}}
 
-I also take on selective work where the problem is technically serious and the delivery needs to survive production reality.
+I also take on selective work where the problem is genuinely difficult and the solution needs more than surface-level implementation.
 
 ---
 
-## Route correctly
+## Elsewhere
 
 {{< keywordList >}}
-{{< keyword icon="building" >}} [Need commercial delivery? Go to SolverForge AI](https://solverforge.ai) {{< /keyword >}}
-{{< keyword icon="shield" >}} [Need product/docs proof? Go to SolverForge](https://solverforge.org) {{< /keyword >}}
-{{< keyword icon="play" >}} [Want examples? Browse demos and portfolio](https://vdistefano.studio/Portfolio/) {{< /keyword >}}
+{{< keyword icon="shield" >}} [SolverForge product, docs, and ecosystem](https://solverforge.org) {{< /keyword >}}
+{{< keyword icon="building" >}} [Commercial work via SolverForge AI](https://solverforge.ai) {{< /keyword >}}
+{{< keyword icon="code" >}} [Selected projects and proof](/Portfolio/) {{< /keyword >}}
 {{< /keywordList >}}
 
 ---

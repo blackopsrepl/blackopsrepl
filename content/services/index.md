@@ -1,6 +1,6 @@
 ---
 title: "Advisory"
-description: "Selected advisory and technical discovery work led by Vittorio Distefano"
+description: "Founder-led advisory on optimization, architecture, and technically serious software"
 showDate: false
 showReadingTime: false
 showWordCount: false
@@ -9,21 +9,22 @@ showTableOfContents: false
 ---
 
 {{< lead >}}
-This page is intentionally narrow.
-For full commercial delivery, implementation, and integration work, the primary path is **[SolverForge AI](https://solverforge.ai)**.
+I work best at the early and decisive stages of technically difficult projects: when the team needs clarity, sharper modeling, and better architectural judgment before expensive implementation begins.
 {{< /lead >}}
 
-This studio site is the founder trust surface, not the main company brochure.
-So the work listed here is limited to areas where direct founder involvement in discovery, architecture, or technical assessment is the right shape.
+This is not a generic agency services page.
+It is a focused offer for teams that want direct founder-level thinking on hard systems problems.
+
+For larger implementation or broader commercial engagements, visit **[SolverForge AI](https://solverforge.ai)**.
 
 ---
 
-## Best-fit advisory work
+## Where I can help most
 
 {{< timeline >}}
 
 {{< timelineItem icon="search" header="Technical Discovery" badge="Discovery" md="true" >}}
-Understand whether a hard planning or systems problem is worth building before committing to a larger implementation.
+For teams trying to determine whether a difficult product or planning problem is actually worth building — and what shape a serious first version should take.
 
 - feasibility assessment
 - problem framing
@@ -32,7 +33,7 @@ Understand whether a hard planning or systems problem is worth building before c
 {{< /timelineItem >}}
 
 {{< timelineItem icon="scale-balanced" header="Optimization Strategy" badge="Advisory" md="true" >}}
-For teams dealing with scheduling, routing, allocation, or other combinatorial planning problems that need sharper modeling.
+For scheduling, routing, allocation, and other combinatorial systems where the model is not yet strong enough, the search strategy is unclear, or the tradeoffs are poorly understood.
 
 - model design review
 - solver strategy
@@ -41,7 +42,7 @@ For teams dealing with scheduling, routing, allocation, or other combinatorial p
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="Architecture Reviews" badge="Technical Review" md="true" >}}
-For teams making high-consequence implementation choices across runtime, language, integration, or system-boundary questions.
+For teams making consequential decisions about language boundaries, runtimes, APIs, jobs, services, migrations, or prototypes that need a more experienced second pass.
 
 - Python ↔ Rust boundary decisions
 - API / job / service boundary review
@@ -53,22 +54,34 @@ For teams making high-consequence implementation choices across runtime, languag
 
 ---
 
-## Public proof behind the advisory surface
+## Best fit
 
-{{< alert icon="github" >}}
-I maintain **[SolverForge](https://github.com/SolverForge/solverforge)**, an open-source constraint solver. Public code, docs, demos, and technical writing are part of the credibility story here — not hidden behind a pitch deck.
-{{< /alert >}}
+This is usually a good fit when:
+
+- the problem is real, but the right system shape is still unclear
+- performance, constraints, or scale make naive implementation risky
+- the team wants technical judgment, not just more code
+- a short, rigorous intervention could prevent months of wrong turns
 
 ---
 
-## Route correctly
+## Why this work exists
 
-- Need a team-facing commercial engagement, custom implementation, or production integration? → [SolverForge AI](https://solverforge.ai)
-- Need the product, documentation, releases, and technical ecosystem? → [SolverForge](https://solverforge.org)
-- Need a focused founder-level technical conversation first? Email [info@vdistefano.studio](mailto:info@vdistefano.studio)
+I maintain **[SolverForge](https://github.com/SolverForge/solverforge)**, an open-source constraint solver, and I’ve spent years working across optimization, production systems, applied AI, migrations, and data-intensive software.
+
+So this advisory work is not detached from practice.
+It comes directly from building real systems, shipping them, and living with the consequences of good and bad technical decisions.
+
+---
+
+## Next step
+
+If you want direct input on a hard technical problem, email **[info@vdistefano.studio](mailto:info@vdistefano.studio)** with a short description of the situation.
+
+If the need is a larger implementation, integration, or commercial engagement, the right path is **[SolverForge AI](https://solverforge.ai)**.
 
 {{< keywordList >}}
-{{< keyword icon="building" >}} [Go to SolverForge AI](https://solverforge.ai) {{< /keyword >}}
-{{< keyword icon="shield" >}} [Go to SolverForge](https://solverforge.org) {{< /keyword >}}
 {{< keyword icon="email" >}} [Email Vittorio](mailto:info@vdistefano.studio) {{< /keyword >}}
+{{< keyword icon="building" >}} [Go to SolverForge AI](https://solverforge.ai) {{< /keyword >}}
+{{< keyword icon="shield" >}} [Explore SolverForge](https://solverforge.org) {{< /keyword >}}
 {{< /keywordList >}}
