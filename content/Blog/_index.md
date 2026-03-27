@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-description: "Founder essays on optimization, systems engineering, AI in production, and technical judgment"
+description: "Essays on optimization, systems engineering, applied AI, and technical judgment"
 showDate: false
 showReadingTime: false
 showWordCount: false
@@ -9,26 +9,45 @@ showTableOfContents: false
 ---
 
 {{< lead >}}
-This blog is for high-signal writing: engineering judgment, optimization in practice, runtime and architecture decisions, and the kind of technical lessons that only matter once software has to survive reality.
+I write when I have something worth saying.
+Usually that means optimization in practice, system design under real constraints, AI beyond the demo stage, or technical decisions that only become visible once software meets production.
 {{< /lead >}}
 
-It is not a generic content feed.
-It exists to sharpen the founder trust surface.
+This is not a content treadmill.
+It is a place for essays, notes, and arguments that carry some weight.
 
-## What belongs here
+---
 
-- optimization and planning in practice
-- Rust, Ruby, and Python system design
-- AI systems that have to operate in production
-- architecture decisions, tradeoffs, and technical judgment
-- selected essays worth reading slowly
+## What I write about
 
-## What does not belong here
+- optimization and planning in real systems
+- Rust, Ruby, and Python engineering
+- architecture decisions and tradeoffs
+- AI systems that need more than prompting
+- technical judgment, not just technical novelty
 
-- duplicate SolverForge release notes
-- product documentation
-- generic growth-content filler
-- low-signal posting for the sake of activity
+---
 
-If you want the product, docs, releases, and technical ecosystem, go to [SolverForge](https://solverforge.org).
-If you want the company/commercial surface, go to [SolverForge AI](https://solverforge.ai).
+## What you should not expect
+
+- filler written to satisfy an algorithm
+- recycled release notes
+- generic startup advice
+- thin commentary on trends I don’t actually use
+
+---
+
+## Why this exists
+
+Writing is part of engineering.
+It is one of the best ways to make taste, judgment, and technical clarity visible.
+
+The posts here are meant to do that: not just explain what I built, but show how I think.
+
+---
+
+## Elsewhere
+
+- Want the broader product, docs, and ecosystem? → [SolverForge](https://solverforge.org)
+- Want founder background and selected work? → [About](/about/) and [Portfolio](/Portfolio/)
+- Want commercial work? → [SolverForge AI](https://solverforge.ai)
