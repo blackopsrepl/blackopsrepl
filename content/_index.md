@@ -16,7 +16,7 @@ I’m Vittorio Distefano, founder of SolverForge.
 My work lives at the intersection of **optimization**, **systems engineering**, and **applied AI** — especially where real-world constraints make software harder, slower, or more interesting than it first appears.
 
 Some of that work becomes products, some becomes tools, some becomes consulting, and some becomes open-source infrastructure.
-What ties it together is the same instinct: take technically serious problems and make them usable in the real world.
+What ties it together is the same instinct: take technically serious problems and make them usable.
 
 ---
 
