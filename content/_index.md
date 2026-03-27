@@ -1,6 +1,6 @@
 ---
 title: "Vittorio Distefano"
-description: "Founder trust surface for SolverForge and selected engineering work"
+description: "Founder of SolverForge. Engineer working across optimization, systems, and applied AI."
 showDate: false
 showReadingTime: false
 showWordCount: false
@@ -9,109 +9,77 @@ showTableOfContents: false
 ---
 
 {{< lead >}}
-I build optimization systems, developer tooling, and production-grade software around hard technical constraints.
+I build optimization systems, developer tooling, and production software for problems that don’t yield to simple CRUD apps or happy-path automation.
 {{< /lead >}}
 
-This site is the **founder trust surface**: who I am, what I’ve built, and the kind of engineering work I’m credible to lead.
+I’m Vittorio Distefano, founder of SolverForge.
+My work lives at the intersection of **optimization**, **systems engineering**, and **applied AI** — especially where real-world constraints make software harder, slower, or more interesting than it first appears.
 
-If you want the **company/commercial surface**, go to [SolverForge AI](https://solverforge.ai).
-If you want the **product, docs, and technical proof surface**, go to [SolverForge](https://solverforge.org).
+Some of that work becomes products, some becomes tools, some becomes consulting, and some becomes open-source infrastructure.
+What ties it together is the same instinct: take technically serious problems and make them usable in the real world.
 
 ---
 
-## Start in the right place
+## What I build
+
+**Optimization & planning systems** — scheduling, routing, allocation, and other combinatorial problems where the model matters as much as the implementation.
+
+**Production-grade software** — APIs, runtimes, service boundaries, integrations, and the engineering needed to make ambitious systems survive contact with reality.
+
+**Applied AI systems** — software that uses modern AI where it is actually useful, without pretending the model is the whole product.
+
+---
+
+## Current focus
+
+The center of gravity right now is **[SolverForge](https://solverforge.org)**, an open-source constraint solver and ecosystem for building planning and decision systems in Rust and Python.
+
+That work is both product and proof:
+it reflects how I think about modeling, runtime design, developer experience, and the gap between elegant ideas and production reality.
+
+---
+
+## Selected paths
 
 {{< keywordList >}}
-{{< keyword icon="building" >}} [Work with SolverForge AI](https://solverforge.ai) {{< /keyword >}}
-{{< keyword icon="shield" >}} [Explore SolverForge](https://solverforge.org) {{< /keyword >}}
-{{< keyword icon="code" >}} [See selected work](/Portfolio/) {{< /keyword >}}
-{{< keyword icon="play" >}} [View demos](/Demos/) {{< /keyword >}}
+{{< keyword icon="user" >}} [Read more about me](/about/) {{< /keyword >}}
+{{< keyword icon="code" >}} [Browse selected work](/Portfolio/) {{< /keyword >}}
+{{< keyword icon="play" >}} [Explore demos](/Demos/) {{< /keyword >}}
+{{< keyword icon="building" >}} [Commercial work via SolverForge AI](https://solverforge.ai) {{< /keyword >}}
 {{< /keywordList >}}
 
 ---
 
-## What this site is for
+## Why people reach out
 
-- **Founder credibility** — background, technical specialization, selected work
-- **Trust transfer** — a human layer behind SolverForge and related delivery work
-- **Curated proof** — portfolio pieces, demos, and a small number of essays worth reading
+Usually for one of three reasons:
 
-## What this site is not
+- they are dealing with a hard planning or optimization problem
+- they need stronger technical judgment around architecture, runtime boundaries, or system design
+- they want someone who can move between product thinking and hands-on engineering without losing rigor in either
 
-- not the main company brochure
-- not the primary services funnel
-- not a duplicate of the SolverForge docs site
+If that sounds close to your situation, the best next step is to look at the work itself.
 
 ---
 
-## Core areas
-
-**Optimization & planning** — scheduling, routing, allocation, combinatorial systems
-
-**Systems engineering** — Rust, Ruby, Python, APIs, runtime boundaries, production integration
-
-**Applied AI** — practical AI systems where architecture and operations matter as much as the model
-
----
-
-## Selected proof
+## Start here
 
 ### SolverForge
-Open-source constraint solver work across scheduling, routing, allocation, and developer-facing modeling.
-This is the clearest public proof of depth in optimization systems, runtime design, and technical product thinking.
+The clearest expression of what I care about technically: constraint solving, modeling, performance, and developer-facing design.
 
 → [Explore SolverForge](https://solverforge.org)
 
-### Demos and quickstarts
-Interactive examples make the work legible. Instead of asking for abstract trust, they show how planning systems behave in concrete domains.
-
-→ [View demos](/Demos/)
-
-### Portfolio work
-Selected projects show a broader engineering range: optimization, tooling, AI-adjacent systems, and production architecture.
+### Portfolio
+A curated selection of projects across optimization, tooling, and AI-adjacent systems.
 
 → [Browse portfolio](/Portfolio/)
 
----
+### Demos
+Interactive examples that make planning systems more concrete.
 
-## Credibility markers
+→ [View demos](/Demos/)
 
-- creator and maintainer of **SolverForge**
-- hands-on engineering across **Rust, Ruby, and Python**
-- experience across **consulting, product engineering, infrastructure, and research**
-- public artifacts include **code, demos, technical writing, and reusable tools**
-- works at the boundary where **modeling, runtime constraints, and delivery reality** all matter at once
+### About
+Background, experience, and the longer arc of the work.
 
----
-
-## Useful paths
-
-### If you need commercial delivery
-If the need is implementation, integration, or a serious project conversation, the right surface is **SolverForge AI**.
-
-→ [Go to SolverForge AI](https://solverforge.ai)
-
-### If you need product and technical proof
-If you want docs, releases, technical writing, or the public ecosystem around the solver itself, go to **SolverForge**.
-
-→ [Go to SolverForge](https://solverforge.org)
-
-### If you want the founder layer
-Use this site for background, selected work, demos, and the human context behind the technical surfaces.
-
----
-
-## Curated next steps
-
-- Start with [About](/about/) for background and technical positioning
-- Use [Portfolio](/Portfolio/) for selected work
-- Use [Demos](/Demos/) for concrete examples
-- Use [Blog](/Blog/) only for the small set of essays worth reading
-
----
-
-## Where to go next
-
-- Need implementation, integration, or a commercial conversation? → [SolverForge AI](https://solverforge.ai)
-- Want docs, releases, blog posts, and the product ecosystem? → [SolverForge](https://solverforge.org)
-- Want the founder background, selected work, and demos? You’re already in the right place.
+→ [Read about Vittorio](/about/)
