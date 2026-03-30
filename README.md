@@ -1,6 +1,6 @@
 # Vittorio Distefano
 **Software Engineer | Founder | AI Planning Optimization**  
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) · `Constraint Programming` · `Cloud Systems`
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 [![Website](https://img.shields.io/badge/Portfolio-vdistefano.studio-purple?style=flat&logo=googlechrome)](https://www.vdistefano.studio)
 [![SolverForge](https://img.shields.io/badge/SolverForge-orange?style=flat&logo=rust)](https://www.solverforge.org)
