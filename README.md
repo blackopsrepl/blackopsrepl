@@ -1,13 +1,7 @@
 # Vittorio Distefano
-**Software Engineer | 📍 Bergamo, Italy | Founder@[![SolverForge](https://img.shields.io/badge/SolverForge-orange?style=flat&logo=rust)](https://www.solverforge.org)**
+**📍Bergamo, Italy | Founder @ [SolverForge.ai](https://solverforge.ai)**
 
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-[![Website](https://img.shields.io/badge/Portfolio-vdistefano.studio-purple?style=flat&logo=googlechrome)](https://www.vdistefano.studio)
-[![X](https://img.shields.io/badge/X-Follow-black?style=flat&logo=x)](https://x.com/BlackOpsREPL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vdistefano)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-blackopsrepl-yellow?style=flat)](https://huggingface.co/blackopsrepl/)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [![SolverForge](https://img.shields.io/badge/SolverForge-orange?style=flat&logo=rust)](https://www.solverforge.org) [![Website](https://img.shields.io/badge/Portfolio-vdistefano.studio-purple?style=flat&logo=googlechrome)](https://www.vdistefano.studio)
 
 ---
 
@@ -63,6 +57,10 @@ I build things that solve hard problems. My sweet spot is taking powerful but co
 > A laser focused LLM trained to split tasks into subtasks
 
 ### 📬 Let's Collaborate
+[![X](https://img.shields.io/badge/X-Follow-black?style=flat&logo=x)](https://x.com/BlackOpsREPL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vdistefano)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-blackopsrepl-yellow?style=flat)](https://huggingface.co/blackopsrepl/)
+
 Reach out if you need:
 - Optimization puzzles (scheduling/routing)
 - Unclogging data/API bottlenecks
