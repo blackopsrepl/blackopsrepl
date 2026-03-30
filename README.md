@@ -1,11 +1,12 @@
 # Vittorio Distefano
-**Software Engineer | Founder | AI Planning Optimization**  
+**Software Engineer | 📍 Bergamo, Italy | Founder@[![SolverForge](https://img.shields.io/badge/SolverForge-orange?style=flat&logo=rust)](https://www.solverforge.org)**
+
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 [![Website](https://img.shields.io/badge/Portfolio-vdistefano.studio-purple?style=flat&logo=googlechrome)](https://www.vdistefano.studio)
-[![SolverForge](https://img.shields.io/badge/SolverForge-orange?style=flat&logo=rust)](https://www.solverforge.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vdistefano)
 [![X](https://img.shields.io/badge/X-Follow-black?style=flat&logo=x)](https://x.com/BlackOpsREPL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vdistefano)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-blackopsrepl-yellow?style=flat)](https://huggingface.co/blackopsrepl/)
 
 ---
