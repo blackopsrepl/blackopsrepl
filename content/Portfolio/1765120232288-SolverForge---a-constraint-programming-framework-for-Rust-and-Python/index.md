@@ -125,13 +125,13 @@ This makes SolverForge a better signal of how I think about technical products: 
 {{< /button >}}
 
 {{< button href="https://github.com/SolverForge/solverforge-quickstarts" target="_blank" >}}
-{{< icon "book" >}} Quickstarts
+{{< icon "list" >}} Quickstarts
 {{< /button >}}
 
 {{< button href="https://github.com/SolverForge/solverforge-cli" target="_blank" >}}
-{{< icon "terminal" >}} CLI Scaffolding
+{{< icon "code" >}} CLI Scaffolding
 {{< /button >}}
 
 {{< button href="https://github.com/SolverForge/solverforge-maps" target="_blank" >}}
-{{< icon "route" >}} Routing Infrastructure
+{{< icon "link" >}} Routing Infrastructure
 {{< /button >}}
