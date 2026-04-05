@@ -20,7 +20,9 @@ jobs:
     env:
       DART_SASS_VERSION: 1.93.2
       GO_VERSION: 1.25.3
-      HUGO_VERSION: 0.152.2
+      # Blowfish currently declares compatibility through Hugo 0.151.x.
+      # Pin to the supported range to keep CI warning-free and reproducible.
+      HUGO_VERSION: 0.151.0
       NODE_VERSION: 22.20.0
       TZ: Europe/Oslo
     steps:
