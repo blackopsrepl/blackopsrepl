@@ -1,85 +1,104 @@
- ---
+---
 title: "SolverForge"
 date: 2025-12-07
 draft: false
-description: "A native constraint solver written in Rust with Python bindings"
-tags: ["Python", "Rust", "Optimization", "SolverForge", "PyO3"]
+description: "A production-ready Rust constraint solver with quickstarts, scaffolding, and routing/UI companion crates"
+tags: ["Rust", "Optimization", "SolverForge", "Constraint Programming", "Planning"]
 showHero: false
 showTableOfContents: true
 ---
 
 {{< lead >}}
-A native constraint solver written from scratch in Rust, inspired by [Timefold](https://timefold.ai). Features a zero-erasure architecture with monomorphization and arena allocation for maximum performance.
+A production-ready constraint solver ecosystem in Rust for planning, scheduling, and routing. SolverForge combines typed domain modeling, Constraint Streams, incremental scoring, and practical tooling that makes optimization systems usable in real applications.
 {{< /lead >}}
 
 ## What it solves
 
-[SolverForge](https://www.solverforge.org) tackles complex optimization problems—employee scheduling, vehicle routing, resource allocation—by finding optimal assignments against real-world constraints.
+[SolverForge](https://solverforge.org) tackles combinatorial planning problems where business rules matter as much as raw optimization: employee scheduling, vehicle routing, task assignment, timetabling, and resource allocation.
 
 {{< keywordList >}}
 {{< keyword icon="calendar" >}} Scheduling {{< /keyword >}}
 {{< keyword icon="truck" >}} Routing {{< /keyword >}}
 {{< keyword icon="cube" >}} Resource Allocation {{< /keyword >}}
+{{< keyword icon="diagram-project" >}} Task Assignment {{< /keyword >}}
 {{< /keywordList >}}
 
 ---
 
-## Architecture
+## What exists today
 
-### Legacy: Python + JPype (Production)
+SolverForge is no longer just an architectural direction. The Rust core is live, documented, versioned, and usable today.
 
-The production solver uses [JPype](https://jpype.readthedocs.io/en/latest/) for direct in-process JVM access. Python bytecode is translated to Java bytecode at runtime via the [JPyInterpreter](https://github.com/SolverForge/solverforge-legacy/tree/main/jpyinterpreter), enabling constraint callbacks. Input data types are validated at the API boundary via [Pydantic](https://docs.pydantic.dev/latest/).
+### Production-ready Rust solver
 
-{{< mermaid >}}
-graph TD
-    A["Python Model"]
-
-    A --> B["JPype Bridge"]
-    B --> C["JPyInterpreter"]
-    C --> D["Java Bytecode"]
-    D --> E["Timefold Solver"]
-    E -.->|callbacks| B
-{{< /mermaid >}}
-
-### Native: Rust Core (In Development)
-
-The new architecture is a complete native solver written from scratch in Rust. It uses monomorphization for zero-cost constraint abstractions, arena allocation for cache-friendly memory access, and a zero-erasure design that preserves full type information at runtime.
+The main `solverforge` crate is a native Rust constraint solver with a full metaheuristic stack, typed moves, derive-macro modeling, incremental SERIO scoring, and channel-based solve orchestration.
 
 {{< mermaid >}}
 graph TD
-    A["Python Model"]
-
-    A --> B["PyO3 Bindings"]
-    B --> C["Rust Core"]
-    C --> D["Monomorphized Constraints"]
-    D --> E["Arena Allocator"]
-    E --> F["Incremental Score Calculator"]
-    F --> G["Metaheuristic Solver"]
+    A["Domain Model"]
+    A --> B["Derive Macros"]
+    B --> C["Constraint Streams"]
+    C --> D["SERIO Incremental Scoring"]
+    D --> E["Metaheuristic Solver"]
+    E --> F["SolverManager / Telemetry"]
 {{< /mermaid >}}
+
+### Practical developer surface
+
+The ecosystem now includes the surrounding pieces that make a solver evaluable and adoptable:
+
+- **Quickstarts** for concrete planning domains
+- **Standalone CLI scaffolding** via `solverforge-cli`
+- **Documentation site** with modeling, constraints, and API guidance
+- **Companion crates** such as `solverforge-maps` for road-network-backed routing workflows
+- **UI integration support** for solver-backed applications
 
 {{< alert icon="lightbulb" >}}
-**Why native?** Unlike Java's type erasure, Rust's monomorphization generates specialized code for each constraint type at compile time. Combined with arena allocation, this eliminates runtime overhead from dynamic dispatch and heap fragmentation — delivering predictable, near-optimal performance.
+**What changed:** the older public framing treated SolverForge as a native rewrite still underway. The current project status is much stronger: the Rust solver is already the flagship public artifact, with real documentation, releases, examples, and companion infrastructure around it.
 {{< /alert >}}
 
 ---
 
-## Project Timeline
+## Project shape
 
 {{< timeline >}}
 
-{{< timelineItem icon="code" header="Continuity" subheader="SolverForge (Legacy)" >}}
-Providing active maintenance the production-ready Python solver after Timefold deprecated official support.
+{{< timelineItem icon="code" header="Continuity" subheader="Legacy Python lineage" >}}
+SolverForge preserves continuity with earlier production constraint-solving work and the `solverforge-legacy` line, but the center of gravity has moved to the native Rust stack.
 {{< /timelineItem >}}
 
-{{< timelineItem icon="shield" header="Rust Core" subheader="SolverForge" >}}
-Building a native constraint solver with monomorphization and arena allocation for zero-overhead performance.
+{{< timelineItem icon="shield" header="Core Platform" subheader="Rust solver" >}}
+The main solver is production-ready: Constraint Streams, incremental scoring, construction heuristics, local search, exhaustive search, partitioned search, typed moves, score analysis, and solve telemetry are all in place.
 {{< /timelineItem >}}
 
-{{< timelineItem icon="globe" header="Multi-language Support" subheader="PyO3 Bindings" >}}
-Python bindings via PyO3, exposing the native solver with idiomatic Python APIs.
+{{< timelineItem icon="toolbox" header="Adoption Surface" subheader="Docs, quickstarts, scaffolding" >}}
+SolverForge now has the surrounding product surface a serious technical project needs: guides, examples, starter projects, and a cleaner path from evaluation to implementation.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="route" header="Ecosystem Expansion" subheader="Routing + companion crates" >}}
+The ecosystem is extending beyond the core solver. `solverforge-maps` adds road-network loading, travel-time matrices, route geometry, and routing diagnostics for vehicle-routing applications.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="globe" header="Next Layer" subheader="Bindings and broader interfaces" >}}
+Python remains a meaningful future expansion path, but the present story is already compelling without it: the Rust ecosystem stands on its own as a usable optimization platform.
 {{< /timelineItem >}}
 
 {{< /timeline >}}
+
+---
+
+## Why it matters
+
+The interesting part of SolverForge is not just that it is written in Rust. It is that the project treats optimization as a software engineering problem, not only a mathematical one.
+
+That shows up in a few ways:
+
+- **Readable domain modeling** instead of flattening everything into equations first
+- **Typed, explicit APIs** that keep business objects recognizable
+- **Incremental scoring** and solver telemetry designed for real application feedback loops
+- **A growing ecosystem surface** that includes docs, scaffolding, quickstarts, and routing infrastructure
+
+This makes SolverForge a better signal of how I think about technical products: not just core algorithms, but the surrounding system required to make difficult software legible and usable.
 
 ---
 
@@ -87,26 +106,32 @@ Python bindings via PyO3, exposing the native solver with idiomatic Python APIs.
 
 {{< keywordList >}}
 {{< keyword icon="code" >}} Rust {{< /keyword >}}
-{{< keyword icon="code" >}} Python {{< /keyword >}}
-{{< keyword icon="code" >}} PyO3 {{< /keyword >}}
+{{< keyword icon="code" >}} Constraint Streams {{< /keyword >}}
+{{< keyword icon="code" >}} SERIO Incremental Scoring {{< /keyword >}}
+{{< keyword icon="code" >}} Cargo / crates.io {{< /keyword >}}
+{{< keyword icon="route" >}} solverforge-maps {{< /keyword >}}
 {{< /keywordList >}}
 
 ---
 
 ## Links
 
-{{< button href="https://www.solverforge.org" target="_blank" >}}
+{{< button href="https://solverforge.org" target="_blank" >}}
 {{< icon "globe" >}} Website
 {{< /button >}}
 
-{{< button href="https://github.com/SolverForge" target="_blank" >}}
-{{< icon "github" >}} GitHub
+{{< button href="https://github.com/SolverForge/solverforge" target="_blank" >}}
+{{< icon "github" >}} Core Repository
 {{< /button >}}
 
-{{< button href="https://pypi.org/project/solverforge-legacy/" target="_blank" >}}
-{{< icon "code" >}} PyPI
+{{< button href="https://github.com/SolverForge/solverforge-quickstarts" target="_blank" >}}
+{{< icon "book" >}} Quickstarts
 {{< /button >}}
 
-{{< button href="https://huggingface.co/spaces/SolverForge/" target="_blank" >}}
-{{< icon "wand-magic-sparkles" >}} HuggingFace (Rust Demos)
+{{< button href="https://github.com/SolverForge/solverforge-cli" target="_blank" >}}
+{{< icon "terminal" >}} CLI Scaffolding
+{{< /button >}}
+
+{{< button href="https://github.com/SolverForge/solverforge-maps" target="_blank" >}}
+{{< icon "route" >}} Routing Infrastructure
 {{< /button >}}
