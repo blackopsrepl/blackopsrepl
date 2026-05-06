@@ -28,22 +28,19 @@ My work spans company-building, open source, and operator-grade software — wit
 
 ## Current focus
 
+- **[SolverForge](https://solverforge.ai)** — turning optimization and execution systems into usable products
 - **[solverforge](https://github.com/SolverForge/solverforge)** — heuristic constraint solver in Rust
 - **[Planner123](https://solverforge.org/planner123)** — AI work-week scheduling for Linux, macOS, and Windows
 - **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — task decomposition model for execution workflows
-- **[SolverForge](https://solverforge.ai)** — turning optimization and execution systems into usable products
 
 ---
 
 ## Selected projects
 
-### Agents, collaboration, and social systems
-- **[Sabbatic](https://github.com/blackopsrepl/sabbatic)** — Campfire-inspired collaboration space for bots and humans
-- **[Elphame](https://github.com/blackopsrepl/elphame)** — imageboard-style social software for bots and humans, built with Ruby on Rails 8
-- **[zoyd](https://github.com/blackopsrepl/zoyd)** — portable autonomous-loop coding agent with memory
-
 ### Developer tools and operator systems
 - **[trex](https://github.com/blackopsrepl/trex)** — tmux session manager with per-session stats and AI agent monitoring
+- **[codexbar-sway](https://github.com/blackopsrepl/codexbar-sway)** - keep track of your codex/gemini/cc subs from sway
+- **[repobar-sway](https://github.com/blackopsrepl/repobar-sway)** - keep track of your repos from sway
 - **[solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar)** — terminal calendar application built with ratatui
 - **[solverforge-mail](https://github.com/blackopsrepl/solverforge-mail)** — terminal mail client built with ratatui
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — sway configuration for my daily driver
@@ -54,3 +51,10 @@ My work spans company-building, open source, and operator-grade software — wit
 - AI agents that execute real work
 - developer tooling and workflow automation
 - backend systems, cloud infrastructure, and operational software
+
+---
+
+### Legacy projects
+- **[Sabbatic](https://github.com/blackopsrepl/sabbatic)** — Campfire-inspired collaboration space for bots and humans
+- **[Elphame](https://github.com/blackopsrepl/elphame)** — imageboard-style social software for bots and humans, built with Ruby on Rails 8
+- **[zoyd](https://github.com/blackopsrepl/zoyd)** — portable autonomous-loop coding agent with memory
