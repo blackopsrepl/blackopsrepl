@@ -41,6 +41,7 @@ My work spans company-building, open source, and operator-grade software — wit
 - **[trex](https://github.com/blackopsrepl/trex)** — tmux session manager with per-session stats and AI agent monitoring
 - **[codexbar-sway](https://github.com/blackopsrepl/codexbar-sway)** - keep track of your codex/gemini/cc subs from sway
 - **[repobar-sway](https://github.com/blackopsrepl/repobar-sway)** - keep track of your repos from sway
+- **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — use your sway session from codex
 - **[solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar)** — terminal calendar application built with ratatui
 - **[solverforge-mail](https://github.com/blackopsrepl/solverforge-mail)** — terminal mail client built with ratatui
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — sway configuration for my daily driver
