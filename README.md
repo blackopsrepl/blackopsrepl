@@ -39,6 +39,7 @@ My work spans company-building, open source, and operator-grade software — wit
 
 ### Developer tools and operator systems
 - **[trex](https://github.com/blackopsrepl/trex)** — tmux session manager with per-session stats and AI agent monitoring
+- **[trexbar-sway](https://github.com/blackopsrepl/trexbar-sway)** — read-only ui for trex on sway
 - **[codexbar-sway](https://github.com/blackopsrepl/codexbar-sway)** - keep track of your codex/gemini/cc subs from sway
 - **[repobar-sway](https://github.com/blackopsrepl/repobar-sway)** - keep track of your repos from sway
 - **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — use your sway session from codex
