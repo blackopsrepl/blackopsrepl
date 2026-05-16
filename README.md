@@ -28,10 +28,10 @@ My work spans company-building, open source, and operator-grade software — wit
 
 ## Current focus
 
-- **[SolverForge](https://solverforge.ai)** — turning optimization and execution systems into usable products
+- **[SolverForge.ai](https://solverforge.ai)** — turning optimization and execution systems into usable products
 - **[solverforge](https://github.com/SolverForge/solverforge)** — heuristic constraint solver in Rust
-- **[Planner123](https://solverforge.org/planner123)** — AI work-week scheduling for Linux, macOS, and Windows
-- **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — task decomposition model for execution workflows
+- **[solverforge-bench](https://github.com/SolverForge/solverforge-bench)** — compare constraint solvers on public problem instances
+- **[solverforge-usecases](https://github.com/SolverForge/solverforge-usecases)** — end-to-end web applications that solve optimization problems with SolverForge
 
 ---
 
@@ -47,6 +47,9 @@ My work spans company-building, open source, and operator-grade software — wit
 - **[solverforge-mail](https://github.com/blackopsrepl/solverforge-mail)** — terminal mail client built with ratatui
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — sway configuration for my daily driver
 
+### Machine learning
+- **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — task decomposition model for execution workflows
+
 ### Areas I like working in
 - constraint solving and optimization
 - planning, scheduling, and routing systems
@@ -60,3 +63,4 @@ My work spans company-building, open source, and operator-grade software — wit
 - **[Sabbatic](https://github.com/blackopsrepl/sabbatic)** — Campfire-inspired collaboration space for bots and humans
 - **[Elphame](https://github.com/blackopsrepl/elphame)** — imageboard-style social software for bots and humans, built with Ruby on Rails 8
 - **[zoyd](https://github.com/blackopsrepl/zoyd)** — portable autonomous-loop coding agent with memory
+- **[rs-tt-rl](https://github.com/blackopsrepl/rs-tt-rl)** - tic-tac-toe with reinforcement learning in Rust
