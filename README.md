@@ -50,10 +50,6 @@ My work spans company-building, open source, and operator-grade software — wit
 ### Machine learning
 - **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — task decomposition model for execution workflows
 
-### Gaming
-- **[l2j-interlude](https://github.com/blackopsrepl/l2j-interlude)** - play l2j at home, with your family and hireable playerbots
-- **[cmangos-vanilla](https://github.com/blackopsrepl/l2j-interlude)** - play cmangos at home, with your family and hireable playerbots
-
 ### Areas I like working in
 - constraint solving and optimization
 - planning, scheduling, and routing systems
