@@ -43,6 +43,7 @@ My work spans company-building, open source, and operator-grade software — wit
 - **[codexbar-sway](https://github.com/blackopsrepl/codexbar-sway)** - keep track of your codex/gemini/cc subs from sway
 - **[repobar-sway](https://github.com/blackopsrepl/repobar-sway)** - keep track of your repos from sway
 - **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — use your sway session from codex
+- **[solverforge-bench-bar-sway](https://github.com/blackopsrepl/solverforge-bench-bar-sway)** - keep track of running solverforge-bench workloads
 - **[solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar)** — terminal calendar application built with ratatui
 - **[solverforge-mail](https://github.com/blackopsrepl/solverforge-mail)** — terminal mail client built with ratatui
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — sway configuration for my daily driver
