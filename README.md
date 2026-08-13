@@ -51,6 +51,9 @@ My work spans company-building, open source, and operator-grade software — wit
 ### Machine learning
 - **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — task decomposition model for execution workflows
 
+### Other
+- **[meridian](https://github.com/blackopsrepl/meridian)** — offline workbench for traditional septenary astrology
+
 ### Areas I like working in
 - constraint solving and optimization
 - planning, scheduling, and routing systems
