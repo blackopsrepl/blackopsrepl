@@ -52,7 +52,7 @@ My work spans company-building, open source, and operator-grade software — wit
 - **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — task decomposition model for execution workflows
 
 ### Gaming
-- **[aitdtnn-pc-music-fix](https://github.com/blackopsrepl/aitdtnn-pc-music-fix)** "bring-your-own-assets" Dreamcast music restoration for Alone in the Dark: The New Nightmare on PC
+- **[aitdtnn-pc-music-fix](https://github.com/blackopsrepl/aitdtnn-pc-music-fix)** — "bring-your-own-assets" Dreamcast music restoration for Alone in the Dark: The New Nightmare on PC
 
 ### Other
 - **[meridian](https://github.com/blackopsrepl/meridian)** — offline workbench for traditional septenary astrology
