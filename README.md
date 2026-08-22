@@ -21,15 +21,14 @@ My work spans company-building, open source, and operator-grade software — wit
 
 - **[SolverForge GitHub Org](https://github.com/SolverForge)** — canonical open-source home for SolverForge
 - **[solverforge.org](https://solverforge.org)** — libraries, open-source, technical surface
-- **[solverforge.ai](https://solverforge.ai)** — company, products, and commercial work
 - **[vdistefano.studio](https://www.vdistefano.studio)** — personal site
 
 ---
 
 ## Current focus
 
-- **[SolverForge.ai](https://solverforge.ai)** — turning optimization and execution systems into usable products
 - **[solverforge](https://github.com/SolverForge/solverforge)** — heuristic constraint solver in Rust
+- **[solverforge-py](https://github.com/SolverForge/solverforge-py)** — full dynamic Python bindings for SolverForge
 - **[solverforge-bench](https://github.com/SolverForge/solverforge-bench)** — compare constraint solvers on public problem instances
 - **[solverforge-usecases](https://github.com/SolverForge/solverforge-usecases)** — end-to-end web applications that solve optimization problems with SolverForge
 
@@ -53,6 +52,7 @@ My work spans company-building, open source, and operator-grade software — wit
 
 ### Gaming
 - **[aitdtnn-pc-overhaul](https://github.com/blackopsrepl/aitdtnn-pc-overhaul)** — independent preservation and compatibility overhaul for Alone in the Dark: The New Nightmare PC
+- **[grim-delver](https://github.com/blackopsrepl/grim-delver)** — poc of a simple, classless 2D delver/stealth rpg made with Godot and Rust
 
 ### Other
 - **[meridian](https://github.com/blackopsrepl/meridian)** — offline workbench for traditional septenary astrology
