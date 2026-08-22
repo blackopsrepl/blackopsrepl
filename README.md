@@ -59,10 +59,10 @@ My work spans company-building, open source, and operator-grade software — wit
 
 ### Areas I like working in
 - constraint solving and optimization
-- planning, scheduling, and routing systems
+- planning, scheduling and routing systems
 - AI agents that execute real work
 - developer tooling and workflow automation
-- backend systems, cloud infrastructure, and operational software
+- backend systems, cloud infrastructure and operational software
 
 ---
 
