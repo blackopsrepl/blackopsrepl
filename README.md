@@ -13,7 +13,9 @@
 
 I build software for hard problems: planning, scheduling, optimization, AI orchestration, developer tooling and production systems.
 
-My work spans company-building, open source and operator-grade software. As a hobby, I maintain some gaming related / restoration projects that allow me to go pretty low level and have some fun.
+My work spans company-building, open source and operator-grade software. 
+
+As a hobby, I maintain some gaming related / restoration projects that allow me to go pretty low level and have fun!
 
 ---
 
