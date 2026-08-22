@@ -11,9 +11,9 @@
 [![X](https://img.shields.io/badge/X-@BlackOpsREPL-black?style=flat-square&logo=x&logoColor=white)](https://x.com/BlackOpsREPL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vittorio%20Distefano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vdistefano)
 
-I build software for hard problems: planning, scheduling, optimization, AI orchestration, developer tooling, and production systems.
+I build software for hard problems: planning, scheduling, optimization, AI orchestration, developer tooling and production systems.
 
-My work spans company-building, open source, and operator-grade software — with a bias toward systems that do real work instead of merely gesturing at it.
+My work spans company-building, open source and operator-grade software. As a hobby, I maintain some gaming related / restoration projects that allow me to go pretty low level and have some fun.
 
 ---
 
