@@ -53,6 +53,7 @@ My work spans company-building, open source and operator-grade software. As a ho
 ### Gaming
 - **[aitdtnn-pc-overhaul](https://github.com/blackopsrepl/aitdtnn-pc-overhaul)** — independent preservation and compatibility overhaul for Alone in the Dark: The New Nightmare PC
 - **[grim-delver](https://github.com/blackopsrepl/grim-delver)** — poc of a simple, classless 2D delver/stealth rpg made with Godot and Rust
+- **[Heimndall2Native](https://github.com/blackopsrepl/Heimdall2Native)** — native Windows modernization layer for Heimdall 2 (1994)
 
 ### Other
 - **[meridian](https://github.com/blackopsrepl/meridian)** — offline workbench for traditional septenary astrology
