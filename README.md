@@ -5,7 +5,6 @@
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![SolverForge Org](https://img.shields.io/badge/GitHub-SolverForge%20Org-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SolverForge)
-[![SolverForge.ai](https://img.shields.io/badge/SolverForge.ai-Company%20%26%20Products-orange?style=flat-square&logo=rust&logoColor=white)](https://solverforge.ai)
 [![SolverForge.org](https://img.shields.io/badge/SolverForge.org-Open%20Source%20%26%20Libraries-7A3EF0?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://solverforge.org)
 [![vdistefano.studio](https://img.shields.io/badge/vdistefano.studio-Personal%20Site-5E3B8C?style=flat-square&logo=googlechrome&logoColor=white)](https://www.vdistefano.studio)
 [![X](https://img.shields.io/badge/X-@BlackOpsREPL-black?style=flat-square&logo=x&logoColor=white)](https://x.com/BlackOpsREPL)
