@@ -48,6 +48,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
 - **[solverforge-mail](https://github.com/blackopsrepl/solverforge-mail)** — terminal mail client built with ratatui
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — sway configuration for my daily driver
+- **[backupbar-sway](https://github.com/blackopsrepl/backupbar-sway)** — read-only backup telemetry for Waybar and QuickShell
 
 ### Machine learning
 - **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — task decomposition model for execution workflows
