@@ -39,7 +39,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 
 ### Developer tools and operator systems
 - **[Planner123](https://github.com/blackopsrepl/Planner123)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
-- **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary browser service that gives every agent its own Chromium and the human a live, controllable view
+- **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary browser service that gives every agent its own Chromium/Wayland/PTY and the human a live, controllable view
 - **[trex](https://github.com/blackopsrepl/trex)** — tmux session manager with per-session stats and AI agent monitoring
 - **[trexbar-sway](https://github.com/blackopsrepl/trexbar-sway)** — read-only ui for trex on sway
 - **[codexbar-sway](https://github.com/blackopsrepl/codexbar-sway)** - keep track of your codex/gemini/cc subs from sway
