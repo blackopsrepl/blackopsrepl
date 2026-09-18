@@ -45,7 +45,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — use your sway session from codex
 - **[solverforge-bench-bar-sway](https://github.com/blackopsrepl/solverforge-bench-bar-sway)** — keep track of running solverforge-bench workloads
 - **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary browser service that gives every agent its own Chromium and the human a live, controllable view
-- **[solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
+- **[Planner123](https://github.com/blackopsrepl/Planner123)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
 - **[solverforge-mail](https://github.com/blackopsrepl/solverforge-mail)** — terminal mail client built with ratatui
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — sway configuration for my daily driver
 - **[backupbar-sway](https://github.com/blackopsrepl/backupbar-sway)** — read-only backup telemetry for Waybar and QuickShell
