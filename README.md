@@ -40,6 +40,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 ### Developer tools and operator systems
 - **[Planner123](https://github.com/blackopsrepl/Planner123)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
 - **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary service that gives every agent its own Chromium/Wayland/QT/PTY and the human a live, controllable view
+- **[gitnaga](https://github.com/blackopsrepl/gitnaga)** - native Git history and diff viewer for Linux, built with C++23 and Qt 6
 - **[nisaba](https://github.com/blackopsrepl/nisaba)** - append-only temporal/provenance key-value database where conflicts surface instead of silently overwriting
 - **[trex](https://github.com/blackopsrepl/trex)** — tmux session manager with per-session stats and AI agent monitoring
 - **[trexbar-sway](https://github.com/blackopsrepl/trexbar-sway)** — read-only ui for trex on sway
