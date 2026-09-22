@@ -49,7 +49,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[backupbar-sway](https://github.com/blackopsrepl/backupbar-sway)** — read-only backup telemetry for Waybar and QuickShell
 - **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — use your sway session from codex
 - **[solverforge-bench-bar-sway](https://github.com/blackopsrepl/solverforge-bench-bar-sway)** — keep track of running solverforge-bench workloads
-- **[solverforge-mail](https://github.com/blackopsrepl/solverforge-mail)** — terminal mail client built with ratatui
+- **[Franking](https://github.com/blackopsrepl/franking)** — terminal mail client with an app-owned IMAP/SMTP engine, built with ratatui
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — sway configuration for my daily driver
 
 ### Machine learning
