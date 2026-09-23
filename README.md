@@ -39,30 +39,30 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 
 ### Developer tools and operator systems
 - **[Planner123](https://github.com/blackopsrepl/Planner123)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
-- **[Franking](https://github.com/blackopsrepl/Franking)** — terminal mail client with an app-owned IMAP/SMTP engine, built with ratatui
+- **[Franking](https://github.com/blackopsrepl/Franking)** — terminal mail client with an app-owned IMAP/SMTP engine, built with ratatui, part of the SolverForge Linux user distribution
 - **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary session service: isolated Chromium, Qt, Quickshell, and terminal sessions for agents, with a live, controllable viewer for humans
-- **[gitnaga](https://github.com/blackopsrepl/gitnaga)** — native Git history and diff viewer for Linux, built with C++23 and Qt 6
-- **[nisaba](https://github.com/blackopsrepl/nisaba)** — append-only temporal/provenance key-value database where conflicts surface instead of silently overwriting
-- **[trex](https://github.com/blackopsrepl/trex)** — tmux session manager with per-session stats and AI agent monitoring
-- **[trexbar-sway](https://github.com/blackopsrepl/trexbar-sway)** — read-only ui for trex on sway
-- **[codexbar-sway](https://github.com/blackopsrepl/codexbar-sway)** — keep track of your codex/gemini/cc subs from sway
-- **[repobar-sway](https://github.com/blackopsrepl/repobar-sway)** — keep track of your repos from sway
+- **[gitnaga](https://github.com/blackopsrepl/gitnaga)** — native Git history and diff viewer for Linux, built with C++23 and Qt 6 QML
+- **[nisaba](https://github.com/blackopsrepl/nisaba)** — tiny append-only temporal/provenance key-value database in C, where conflicts surface instead of silently overwriting
+- **[trex](https://github.com/blackopsrepl/trex)** — fast, minimal tmux session manager with fuzzy finding and an interactive TUI
+- **[trexbar-sway](https://github.com/blackopsrepl/trexbar-sway)** — read-only UI for trex on Sway
+- **[codexbar-sway](https://github.com/blackopsrepl/codexbar-sway)** — keep track of your Codex/Gemini/CC plan from Sway
+- **[repobar-sway](https://github.com/blackopsrepl/repobar-sway)** — track your GitHub/Forgejo repos from Sway
 - **[backupbar-sway](https://github.com/blackopsrepl/backupbar-sway)** — read-only backup telemetry for Waybar and QuickShell
-- **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — use your sway session from codex
-- **[solverforge-bench-bar-sway](https://github.com/blackopsrepl/solverforge-bench-bar-sway)** — keep track of running solverforge-bench workloads
-- **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — sway configuration for my daily driver
+- **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — use your Sway session from Codex
+- **[solverforge-bench-bar-sway](https://github.com/blackopsrepl/solverforge-bench-bar-sway)** — read-only Sway/Waybar and QuickShell monitor for running solverforge-bench workloads
+- **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — configuration layer for Sway inspired by Omarchy
 
 ### Machine learning
-- **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — task decomposition model for execution workflows
+- **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — local microGPT implementation that splits tasks into subtasks
 
 ### Gaming
 - **[aitdtnn-pc-overhaul](https://github.com/blackopsrepl/aitdtnn-pc-overhaul)** — independent preservation and compatibility overhaul for Alone in the Dark: The New Nightmare PC
-- **[grim-delver](https://github.com/blackopsrepl/grim-delver)** — poc of a simple, classless 2D delver/stealth rpg made with Godot and Rust
-- **[Heimndall2Native](https://github.com/blackopsrepl/Heimdall2Native)** — native Windows modernization layer for Heimdall 2 (1994)
-- **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — native Windows modernization layer for Theme Park (1994)
+- **[grim-delver](https://github.com/blackopsrepl/grim-delver)** — compact top-down action RPG dungeon slice built with Godot 4.7 and Rust
+- **[Heimdall2Native](https://github.com/blackopsrepl/Heimdall2Native)** — native Windows modernization layer for Heimdall 2 (1994)
+- **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — unofficial Windows 11 modernization and compatibility host for the 1994 PC CD release of Theme Park
 
 ### Other
-- **[meridian](https://github.com/blackopsrepl/meridian)** — offline workbench for traditional septenary astrology
+- **[meridian](https://github.com/blackopsrepl/meridian)** — offline classical septenary astrology desktop workbench
 
 ### Areas I like working in
 - constraint solving and optimization
