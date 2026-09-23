@@ -39,7 +39,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 
 ### Developer tools and operator systems
 - **[Planner123](https://github.com/blackopsrepl/Planner123)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
-- **[Franking](https://github.com/blackopsrepl/Franking)** — terminal mail client with an app-owned IMAP/SMTP engine, built with ratatui, part of the SolverForge Linux user distribution
+- **[Franking](https://github.com/blackopsrepl/Franking)** — terminal mail client with an app-owned IMAP/SMTP engine, built with ratatui
 - **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary session service: isolated Chromium, Qt, Quickshell, and terminal sessions for agents, with a live, controllable viewer for humans
 - **[gitnaga](https://github.com/blackopsrepl/gitnaga)** — native Git history and diff viewer for Linux, built with C++23 and Qt 6 QML
 - **[nisaba](https://github.com/blackopsrepl/nisaba)** — tiny append-only temporal/provenance key-value database in C, where conflicts surface instead of silently overwriting
