@@ -41,6 +41,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[Planner123](https://github.com/blackopsrepl/Planner123)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
 - **[Franking](https://github.com/blackopsrepl/Franking)** — terminal mail client with an app-owned IMAP/SMTP engine, built with ratatui
 - **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary session service: isolated Chromium, Qt, Quickshell, and terminal sessions for agents, with a live, controllable viewer for humans
+- **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** —  allow any agent harness to use your Sway session
 - **[gitnaga](https://github.com/blackopsrepl/gitnaga)** — native Git history and diff viewer for Linux, built with C++23 and Qt 6 QML
 - **[nisaba](https://github.com/blackopsrepl/nisaba)** — tiny append-only temporal/provenance key-value database in C, where conflicts surface instead of silently overwriting
 - **[trex](https://github.com/blackopsrepl/trex)** — fast, minimal tmux session manager with fuzzy finding and an interactive TUI
@@ -48,7 +49,6 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[codexbar-sway](https://github.com/blackopsrepl/codexbar-sway)** — keep track of your Codex/Gemini/CC plan from Sway
 - **[repobar-sway](https://github.com/blackopsrepl/repobar-sway)** — track your GitHub/Forgejo repos from Sway
 - **[backupbar-sway](https://github.com/blackopsrepl/backupbar-sway)** — read-only backup telemetry for Waybar and QuickShell
-- **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — use your Sway session from Codex
 - **[solverforge-bench-bar-sway](https://github.com/blackopsrepl/solverforge-bench-bar-sway)** — read-only Sway/Waybar and QuickShell monitor for running solverforge-bench workloads
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — configuration layer for Sway inspired by Omarchy
 
