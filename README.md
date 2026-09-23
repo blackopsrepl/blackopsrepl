@@ -54,6 +54,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 
 ### Machine learning
 - **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — local microGPT implementation that splits tasks into subtasks
+- **[rs-ttt-rl](https://github.com/blackopsrepl/rs-ttt-rl)** — tic-tac-toe with reinforcement learning in Rust
 
 ### Gaming
 - **[aitdtnn-pc-overhaul](https://github.com/blackopsrepl/aitdtnn-pc-overhaul)** — independent preservation and compatibility overhaul for Alone in the Dark: The New Nightmare PC
@@ -78,4 +79,3 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[Elphame](https://github.com/blackopsrepl/elphame)** — imageboard-style social software for bots and humans, built with Ruby on Rails 8
 - **[zoyd](https://github.com/blackopsrepl/zoyd)** — portable autonomous-loop coding agent with memory
 - **[yuga-planner](https://github.com/blackopsrepl/yuga-planner)** — splits a SWE design document into subtasks, then schedules it around your existing calendar
-- **[rs-ttt-rl](https://github.com/blackopsrepl/rs-ttt-rl)** — tic-tac-toe with reinforcement learning in Rust
