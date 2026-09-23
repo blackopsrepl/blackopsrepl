@@ -77,5 +77,5 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[Sabbatic](https://github.com/blackopsrepl/sabbatic)** — Campfire-inspired collaboration space for bots and humans
 - **[Elphame](https://github.com/blackopsrepl/elphame)** — imageboard-style social software for bots and humans, built with Ruby on Rails 8
 - **[zoyd](https://github.com/blackopsrepl/zoyd)** — portable autonomous-loop coding agent with memory
-- **[yuga-planner](https://github.com/blackopsrepl/yuga-planner)** - splits a SWE design document into subtasks, then schedules it around your existing calendar
-- **[rs-ttt-rl](https://github.com/blackopsrepl/rs-ttt-rl)** - tic-tac-toe with reinforcement learning in Rust
+- **[yuga-planner](https://github.com/blackopsrepl/yuga-planner)** — splits a SWE design document into subtasks, then schedules it around your existing calendar
+- **[rs-ttt-rl](https://github.com/blackopsrepl/rs-ttt-rl)** — tic-tac-toe with reinforcement learning in Rust
