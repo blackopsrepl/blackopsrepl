@@ -51,7 +51,6 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[backupbar-sway](https://github.com/blackopsrepl/backupbar-sway)** — read-only backup telemetry for Waybar and QuickShell
 - **[solverforge-bench-bar-sway](https://github.com/blackopsrepl/solverforge-bench-bar-sway)** — read-only Sway/Waybar and QuickShell monitor for running solverforge-bench workloads
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — configuration layer for Sway inspired by Omarchy
-- **[glyphfx](https://github.com/blackopsrepl/glyphfx)** — terminal text effects as a single C17 binary; a byte-exact C port of ttfx
 
 ### Machine learning
 - **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — local microGPT implementation that splits tasks into subtasks
@@ -65,6 +64,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 
 ### Other
 - **[meridian](https://github.com/blackopsrepl/meridian)** — offline classical septenary astrology desktop workbench
+- **[glyphfx](https://github.com/blackopsrepl/glyphfx)** — terminal text effects as a single C17 binary; a byte-exact C port of ttfx
 
 ### Areas I like working in
 - constraint solving and optimization
