@@ -42,6 +42,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[Franking](https://github.com/blackopsrepl/Franking)** — terminal mail client with an app-owned IMAP/SMTP engine, built with ratatui
 - **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary session service: isolated Chromium, Qt, Quickshell, and terminal sessions for agents, with a live, controllable viewer for humans
 - **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — MCP server that allows any agent harness to use your Sway session
+- **[seshat](https://github.com/blackopsrepl/seshat)** — MCP server that records a screen and narrates the take, anchored to the events other tool servers publish
 - **[gitnaga](https://github.com/blackopsrepl/gitnaga)** — native Git history and diff viewer for Linux, built with C++23 and Qt 6 QML
 - **[nisaba](https://github.com/blackopsrepl/nisaba)** — tiny append-only temporal/provenance key-value database in C, where conflicts surface instead of silently overwriting
 - **[trex](https://github.com/blackopsrepl/trex)** — fast, minimal tmux session manager with fuzzy finding and an interactive TUI
