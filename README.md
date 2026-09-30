@@ -47,7 +47,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[nisaba](https://github.com/blackopsrepl/nisaba)** — tiny append-only temporal/provenance key-value database in C, where conflicts surface instead of silently overwriting
 - **[trex](https://github.com/blackopsrepl/trex)** — fast, minimal tmux session manager with fuzzy finding and an interactive TUI
 - **[trexbar-sway](https://github.com/blackopsrepl/trexbar-sway)** — read-only UI for trex on Sway
-- **[TokenMaxx](https://github.com/blackopsrepl/tokenmaxx)** — Linux-first quota bar for Codex, Claude, Gemini, OpenCode Go, Z.ai, and Ollama Cloud; independent implementation inspired by the original CodexBar by Steipete
+- **[TokenMaxx](https://github.com/blackopsrepl/tokenmaxx)** — Linux-first quota bar for Codex, Claude, Gemini, OpenCode Go, Z.ai, and Ollama Cloud
 - **[repobar](https://github.com/blackopsrepl/repobar)** — track your GitHub/Forgejo repos, and triage issues and PRs, on any Wayland compositor
 - **[backupbar-sway](https://github.com/blackopsrepl/backupbar-sway)** — read-only backup telemetry for Waybar and QuickShell
 - **[solverforge-bench-bar-sway](https://github.com/blackopsrepl/solverforge-bench-bar-sway)** — read-only Sway/Waybar and QuickShell monitor for running solverforge-bench workloads
