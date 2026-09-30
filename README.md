@@ -15,3 +15,4 @@ Creator of SolverForge. I build agent infrastructure, desktop software, and TUI 
 - [aitdtnn-pc-overhaul](https://github.com/blackopsrepl/aitdtnn-pc-overhaul) — Independent preservation and compatibility overhaul for Alone in the Dark: The New Nightmare PC
 - [yuga-planner](https://github.com/blackopsrepl/yuga-planner) — LLM + constraint solver to schedule tasks around your existing calendar
 - [omarchy-calendar-solver](https://github.com/blackopsrepl/omarchy-calendar-solver) — Internal Rust SolverForge adapter for Omarchy's native calendar planner
+- [repobar](https://github.com/blackopsrepl/repobar) — track your GitHub/Forgejo repos, and triage issues and PRs, on any Wayland compositor
