@@ -49,6 +49,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[trexbar-sway](https://github.com/blackopsrepl/trexbar-sway)** — read-only UI for trex on Sway
 - **[TokenMaxx](https://github.com/blackopsrepl/tokenmaxx)** — Linux-first quota bar for Codex, Claude, Gemini, OpenCode Go, Z.ai, and Ollama Cloud
 - **[repobar](https://github.com/blackopsrepl/repobar)** — track your GitHub/Forgejo repos, and triage issues and PRs, on any Wayland compositor
+- **[cronbar](https://github.com/blackopsrepl/cronbar)** — cron and anacron inspector for Waybar and QuickShell, with deliberate manual runs for active and commented-out jobs
 - **[backupbar-sway](https://github.com/blackopsrepl/backupbar-sway)** — read-only backup telemetry for Waybar and QuickShell
 - **[solverforge-bench-bar-sway](https://github.com/blackopsrepl/solverforge-bench-bar-sway)** — read-only Sway/Waybar and QuickShell monitor for running solverforge-bench workloads
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — configuration layer for Sway inspired by Omarchy
