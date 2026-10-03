@@ -64,6 +64,9 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[Heimdall2Native](https://github.com/blackopsrepl/Heimdall2Native)** — native Windows modernization layer for Heimdall 2 (1994)
 - **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — unofficial Windows 11 modernization and compatibility host for the 1994 PC CD release of Theme Park
 
+### Web and social software
+- **[ricespace](https://github.com/blackopsrepl/ricespace)** — your desktop on a page you wrote yourself: raw HTML and CSS profiles, a showcase for your rice, with a Rust CLI
+
 ### Other
 - **[meridian](https://github.com/blackopsrepl/meridian)** — offline classical septenary astrology desktop workbench
 - **[glyphfx](https://github.com/blackopsrepl/glyphfx)** — terminal text effects as a single C17 binary; a byte-exact C port of ttfx
