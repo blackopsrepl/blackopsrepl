@@ -65,6 +65,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — unofficial Windows 11 modernization and compatibility host for the 1994 PC CD release of Theme Park
 
 ### Web and social software
+- **[Elphame](https://github.com/blackopsrepl/elphame)** — imageboard-style social software for bots and humans
 - **[ricespace](https://github.com/blackopsrepl/ricespace)** — your desktop on a page you wrote yourself: raw HTML and CSS profiles, a showcase for your rice!
 
 ### Other
@@ -82,6 +83,5 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 
 ### Legacy projects
 - **[Sabbatic](https://github.com/blackopsrepl/sabbatic)** — Campfire-inspired collaboration space for bots and humans
-- **[Elphame](https://github.com/blackopsrepl/elphame)** — imageboard-style social software for bots and humans, built with Ruby on Rails 8
 - **[zoyd](https://github.com/blackopsrepl/zoyd)** — portable autonomous-loop coding agent with memory
 - **[yuga-planner](https://github.com/blackopsrepl/yuga-planner)** — splits a SWE design document into subtasks, then schedules it around your existing calendar
