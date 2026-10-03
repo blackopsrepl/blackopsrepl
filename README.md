@@ -65,7 +65,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — unofficial Windows 11 modernization and compatibility host for the 1994 PC CD release of Theme Park
 
 ### Web and social software
-- **[ricespace](https://github.com/blackopsrepl/ricespace)** — your desktop on a page you wrote yourself: raw HTML and CSS profiles, a showcase for your rice, with a Rust CLI
+- **[ricespace](https://github.com/blackopsrepl/ricespace)** — your desktop on a page you wrote yourself: raw HTML and CSS profiles, a showcase for your rice!
 
 ### Other
 - **[meridian](https://github.com/blackopsrepl/meridian)** — offline classical septenary astrology desktop workbench
