@@ -48,6 +48,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[trex](https://github.com/blackopsrepl/trex)** — fast, minimal tmux session manager with fuzzy finding and an interactive TUI
 - **[trexbar-sway](https://github.com/blackopsrepl/trexbar-sway)** — read-only UI for trex on Sway
 - **[TokenMaxx](https://github.com/blackopsrepl/tokenmaxx)** — Linux-first quota bar for Codex, Claude, Gemini, OpenCode Go, Z.ai, and Ollama Cloud
+- **[Tranche](https://github.com/blackopsrepl/Tranche)** — input-bound, model-assisted PR discovery and review prioritization
 - **[repobar](https://github.com/blackopsrepl/repobar)** — track your GitHub/Forgejo repos, and triage issues and PRs, on any Wayland compositor
 - **[cronbar](https://github.com/blackopsrepl/cronbar)** — cron and anacron inspector for Waybar and QuickShell
 - **[backupbar-sway](https://github.com/blackopsrepl/backupbar-sway)** — read-only backup telemetry for Waybar and QuickShell
