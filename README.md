@@ -63,6 +63,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[grim-delver](https://github.com/blackopsrepl/grim-delver)** — compact top-down action RPG dungeon slice built with Godot 4.7 and Rust
 - **[Heimdall2Native](https://github.com/blackopsrepl/Heimdall2Native)** — native Windows modernization layer for Heimdall 2 (1994)
 - **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — unofficial Windows 11 modernization and compatibility host for the 1994 PC CD release of Theme Park
+- **[Winterrealm3](https://github.com/blackopsrepl/winterrealm3)** — one shared Lineage II Interlude world hosted at home for family play, built on L2J and run with Docker on Windows or Linux
 
 ### Web and social software
 - **[Elphame](https://github.com/blackopsrepl/elphame)** — imageboard-style social software for bots and humans
