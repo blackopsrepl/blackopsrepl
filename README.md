@@ -49,7 +49,6 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[TokenMaxx](https://github.com/blackopsrepl/tokenmaxx)** — Linux-first quota bar for Codex, Claude, Gemini, OpenCode Go, Z.ai, and Ollama Cloud
 - **[Tranche](https://github.com/blackopsrepl/Tranche)** — input-bound, model-assisted PR discovery and review prioritization
 - **[repobar](https://github.com/blackopsrepl/repobar)** — track your GitHub/Forgejo repos, and triage issues and PRs, on any Wayland compositor
-- **[cronbar](https://github.com/blackopsrepl/cronbar)** — cron and anacron inspector for Waybar and QuickShell
 - **[backupbar-sway](https://github.com/blackopsrepl/backupbar-sway)** — read-only backup telemetry for Waybar and QuickShell
 - **[solverforge-bench-bar-sway](https://github.com/blackopsrepl/solverforge-bench-bar-sway)** — read-only Sway/Waybar and QuickShell monitor for running solverforge-bench workloads
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — configuration layer for Sway inspired by Omarchy
@@ -83,6 +82,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 ---
 
 ### Legacy projects
+- **[cronbar](https://github.com/blackopsrepl/cronbar)** — retired cron and anacron inspector for Waybar and QuickShell; archived read-only
 - **[Sabbatic](https://github.com/blackopsrepl/sabbatic)** — Campfire-inspired collaboration space for bots and humans
 - **[zoyd](https://github.com/blackopsrepl/zoyd)** — portable autonomous-loop coding agent with memory
 - **[yuga-planner](https://github.com/blackopsrepl/yuga-planner)** — splits a SWE design document into subtasks, then schedules it around your existing calendar
