@@ -63,7 +63,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[Heimdall2Native](https://github.com/blackopsrepl/Heimdall2Native)** — native Windows modernization layer for Heimdall 2 (1994)
 - **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — unofficial Windows 11 modernization and compatibility host for the 1994 PC CD release of Theme Park
 - **[Winterrealm3](https://github.com/blackopsrepl/winterrealm3)** — one family-shared L2J Interlude world with Docker on Windows or Linux
-- **[CMaNGOS Vanilla](https://github.com/blackopsrepl/cmangos-vanilla)** — home-LAN Vanilla realm setup for Windows/Docker and Linux/Podman; bring your own sources and client data
+- **[CMaNGOS Vanilla](https://github.com/blackopsrepl/cmangos-vanilla)** — home-LAN Vanilla realm setup with Docker on Windows or Linux
 
 ### Web and social software
 - **[Elphame](https://github.com/blackopsrepl/elphame)** — imageboard-style social software for bots and humans
