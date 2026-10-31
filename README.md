@@ -40,7 +40,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 ### Developer tools and operator systems
 - **[Planner123](https://github.com/blackopsrepl/Planner123)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
 - **[Franking](https://github.com/blackopsrepl/Franking)** — terminal mail client with an app-owned IMAP/SMTP engine, built with ratatui
-- **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary session service: isolated Chromium, Qt, Quickshell, and terminal sessions for agents, with a live, controllable viewer for humans
+- **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary session service: isolated Qt/Quickshell for agents, with a live, controllable viewer for humans
 - **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — MCP server that allows any agent harness to use your Sway session
 - **[seshat](https://github.com/blackopsrepl/seshat)** — MCP server that records a screen and narrates the take, anchored to the events other tool servers publish
 - **[gitnaga](https://github.com/blackopsrepl/gitnaga)** — native Git history and diff viewer for Linux, built with C++23 and Qt 6 QML
