@@ -16,6 +16,8 @@ My work spans company-building, open source and operator-grade software.
 
 As a hobby, I maintain some gaming related / restoration projects that allow me to go pretty low level and have fun!
 
+https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
+
 ---
 
 ## Navigate the ecosystem
