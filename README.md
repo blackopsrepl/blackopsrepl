@@ -44,7 +44,7 @@ As a hobby, I maintain some gaming related / restoration projects that allow me 
 - **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — MCP server that allows any agent harness to use your Sway session
 - **[seshat](https://github.com/blackopsrepl/seshat)** — MCP server that records a screen and narrates the take, anchored to the events other tool servers publish
 - **[gitnaga](https://github.com/blackopsrepl/gitnaga)** — native Git history and diff viewer for Linux, built with C++23 and Qt 6 QML
-- **[nisaba](https://github.com/blackopsrepl/nisaba)** — tiny append-only temporal/provenance key-value database in C, where conflicts surface instead of silently overwriting
+- **[nisaba](https://github.com/blackopsrepl/nisaba)** — tiny append-only temporal/provenance key-value database in C
 - **[trex](https://github.com/blackopsrepl/trex)** — fast, minimal tmux session manager with fuzzy finding and an interactive TUI
 - **[TokenMaxx](https://github.com/blackopsrepl/tokenmaxx)** — Linux-first quota bar for Codex, Claude, Gemini, OpenCode Go, Z.ai, and Ollama Cloud
 - **[Tranche](https://github.com/blackopsrepl/Tranche)** — input-bound, model-assisted PR discovery and review prioritization
