@@ -16,9 +16,9 @@ My work spans company-building, open source and operator-grade software.
 
 As a hobby, I maintain some gaming related / restoration projects that allow me to go pretty low level and have fun!
 
-[![STUDIO_07: Vittorio Distefano and four ways to work with him. Click to watch the full video with sound.](studio-07-preview.gif)](https://vdistefano.studio/)
+https://github.com/user-attachments/assets/658eeff8-babb-434a-bab4-ddfc63b02947
 
-Four ways to work with me: planning systems on SolverForge, advisory for any software project, AI agents and the tools under them, and developer relations. Full video with sound on [vdistefano.studio](https://vdistefano.studio/) · hello@solverforge.ai
+Four ways to work with me: planning systems on SolverForge, advisory for any software project, AI agents and the tools under them, and developer relations. More on [vdistefano.studio](https://vdistefano.studio/) · hello@solverforge.ai
 
 https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 
