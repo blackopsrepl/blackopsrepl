@@ -20,8 +20,6 @@ https://github.com/user-attachments/assets/658eeff8-babb-434a-bab4-ddfc63b02947
 
 Four ways to work with me: planning systems on SolverForge, advisory for any software project, AI agents and the tools under them, and developer relations. More on [vdistefano.studio](https://vdistefano.studio/) · hello@solverforge.ai
 
-https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
-
 ---
 
 ## Navigate the ecosystem
@@ -42,6 +40,8 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 ---
 
 ## Selected projects
+
+https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 
 ### Developer tools and operator systems
 - **[Planner123](https://github.com/blackopsrepl/Planner123)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
