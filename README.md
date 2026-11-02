@@ -16,7 +16,9 @@ My work spans company-building, open source and operator-grade software.
 
 As a hobby, I maintain some gaming related / restoration projects that allow me to go pretty low level and have fun!
 
-https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
+[![STUDIO_07: Vittorio Distefano and four ways to work with him. Click to watch the full video with sound.](studio-07-preview.gif)](https://vdistefano.studio/)
+
+Four ways to work with me: planning systems on SolverForge, advisory for any software project, AI agents and the tools under them, and developer relations. Full video with sound on [vdistefano.studio](https://vdistefano.studio/) · hello@solverforge.ai
 
 ---
 
@@ -41,6 +43,9 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 
 ### Developer tools and operator systems
 - **[Planner123](https://github.com/blackopsrepl/Planner123)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
+
+  https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
+
 - **[Franking](https://github.com/blackopsrepl/Franking)** — terminal mail client with an app-owned IMAP/SMTP engine, built with ratatui
 - **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary session service: isolated Qt/Quickshell for agents, with a live, controllable viewer for humans
 - **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — MCP server that allows any agent harness to use your Sway session
