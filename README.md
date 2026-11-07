@@ -67,7 +67,6 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 - **[aitdtnn-pc-overhaul](https://github.com/blackopsrepl/aitdtnn-pc-overhaul)** — independent preservation and compatibility overhaul for Alone in the Dark: The New Nightmare PC
 - **[grim-delver](https://github.com/blackopsrepl/grim-delver)** — compact top-down action RPG dungeon slice built with Godot 4.7 and Rust
 - **[Heimdall2Native](https://github.com/blackopsrepl/Heimdall2Native)** — native Windows modernization layer for Heimdall 2 (1994)
-- **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — unofficial Windows 11 modernization and compatibility host for the 1994 PC CD release of Theme Park
 - **[Winterrealm3](https://github.com/blackopsrepl/winterrealm3)** — one family-shared L2J Interlude world with Docker on Windows or Linux
 - **[CMaNGOS Vanilla](https://github.com/blackopsrepl/cmangos-vanilla)** — home-LAN Vanilla realm setup with Docker on Windows or Linux
 
@@ -94,3 +93,4 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 - **[zoyd](https://github.com/blackopsrepl/zoyd)** — portable autonomous-loop coding agent with memory
 - **[yuga-planner](https://github.com/blackopsrepl/yuga-planner)** — splits a SWE design document into subtasks, then schedules it around your existing calendar
 - **[trexbar-sway](https://github.com/blackopsrepl/trexbar-sway)** — read-only UI for trex on Sway
+- **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — retired Windows 11 modernization host for the 1994 Theme Park PC CD; replaced by a static recompilation, archived read-only
