@@ -43,21 +43,37 @@ Four ways to work with me: planning systems on SolverForge, advisory for any sof
 
 https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 
-### Developer tools and operator systems
-- **[Planner123](https://github.com/blackopsrepl/Planner123)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
-- **[Franking](https://github.com/blackopsrepl/Franking)** — terminal mail client with an app-owned IMAP/SMTP engine, built with ratatui
+### AI agents and agent tooling
+- **[hermes-solverforge-planner](https://github.com/blackopsrepl/hermes-solverforge-planner)** — Hermes Agent plugin: a SolverForge engine places your tasks around your calendar, and nothing is written until you approve
+- **[hermes-solverforge-routing](https://github.com/blackopsrepl/hermes-solverforge-routing)** — Hermes Agent plugin: a SolverForge engine orders your driving stops on OpenStreetMap roads, with the route map beside the chat
 - **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary session service: isolated Qt/Quickshell for agents, with a live, controllable viewer for humans
 - **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — MCP server that allows any agent harness to use your Sway session
 - **[seshat](https://github.com/blackopsrepl/seshat)** — MCP server that records a screen and narrates the take, anchored to the events other tool servers publish
+- **[Tranche](https://github.com/blackopsrepl/Tranche)** — input-bound, model-assisted PR discovery and review prioritization
+
+### Planning and optimization
+- **[Planner123](https://github.com/blackopsrepl/Planner123)** — AI-scheduler-powered terminal calendar application built with ratatui and SolverForge
+- **[solverforge-pretix](https://github.com/blackopsrepl/solverforge-pretix)** — native SolverForge seat planning for pretix events
+- **[solverforge-iap](https://github.com/blackopsrepl/solverforge-iap)** — invigilator assignment solver (IAP-CM / IAP-CR) built with SolverForge
+- **[solverforge-ttp](https://github.com/blackopsrepl/solverforge-ttp)** — SolverForge workbench for the classic Traveling Tournament Problem
+- **[jev-team-calendar](https://github.com/blackopsrepl/jev-team-calendar)** — project teams discovered from résumés, scheduled by SolverForge
+- **[omarchy-calendar-solver](https://github.com/blackopsrepl/omarchy-calendar-solver)** — Rust SolverForge adapter for Omarchy's native calendar planner
+- **[heuristics](https://github.com/blackopsrepl/heuristics)** — construction heuristics and local-search metaheuristics in pure Ruby, one inspectable file per algorithm
+
+### Developer tools and operator systems
+- **[Franking](https://github.com/blackopsrepl/Franking)** — terminal mail client with an app-owned IMAP/SMTP engine, built with ratatui
 - **[gitnaga](https://github.com/blackopsrepl/gitnaga)** — native Git history and diff viewer for Linux, built with C++23 and Qt 6 QML
 - **[nisaba](https://github.com/blackopsrepl/nisaba)** — tiny append-only temporal/provenance key-value database in C
 - **[trex](https://github.com/blackopsrepl/trex)** — fast, minimal tmux session manager with fuzzy finding and an interactive TUI
 - **[TokenMaxx](https://github.com/blackopsrepl/tokenmaxx)** — Linux-first quota bar for Codex, Claude, Gemini, OpenCode Go, Z.ai, and Ollama Cloud
-- **[Tranche](https://github.com/blackopsrepl/Tranche)** — input-bound, model-assisted PR discovery and review prioritization
 - **[repobar](https://github.com/blackopsrepl/repobar)** — track your GitHub/Forgejo repos, and triage issues and PRs, on any Wayland compositor
 - **[backupbar-sway](https://github.com/blackopsrepl/backupbar-sway)** — read-only backup telemetry for Waybar and QuickShell
 - **[solverforge-bench-bar-sway](https://github.com/blackopsrepl/solverforge-bench-bar-sway)** — read-only Sway/Waybar and QuickShell monitor for running solverforge-bench workloads
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — configuration layer for Sway inspired by Omarchy
+- **[switchyard](https://github.com/blackopsrepl/switchyard)** — systemd unit dashboard for Rails dev environments: Waybar chip and QuickShell panel
+- **[csemver](https://github.com/blackopsrepl/csemver)** — pure C port of commit-and-tag-version with TOML configuration
+- **[init-pre-commit](https://github.com/blackopsrepl/init-pre-commit)** — generates `.pre-commit-config.yaml` from the project types it detects
+- **[borg-timemachine](https://github.com/blackopsrepl/borg-timemachine)** — scripts that run borg as a "time machine"
 
 ### Machine learning
 - **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — local microGPT implementation that splits tasks into subtasks
@@ -69,6 +85,10 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 - **[Heimdall2Native](https://github.com/blackopsrepl/Heimdall2Native)** — native Windows modernization layer for Heimdall 2 (1994)
 - **[Winterrealm3](https://github.com/blackopsrepl/winterrealm3)** — one family-shared L2J Interlude world with Docker on Windows or Linux
 - **[CMaNGOS Vanilla](https://github.com/blackopsrepl/cmangos-vanilla)** — home-LAN Vanilla realm setup with Docker on Windows or Linux
+- **[re1_launcher](https://github.com/blackopsrepl/re1_launcher)** — Windows launcher for a separately installed Resident Evil (1996) with Classic REbirth
+- **[diablo_launcher](https://github.com/blackopsrepl/diablo_launcher)** — Windows launcher for a separately installed DevilutionX
+- **[c-chess](https://github.com/blackopsrepl/c-chess)** — two-player terminal chess in C11 with a perft-tested rules engine
+- **[c-poker](https://github.com/blackopsrepl/c-poker)** — heads-up five-card draw poker for the terminal in standard C
 
 ### Web and social software
 - **[Elphame](https://github.com/blackopsrepl/elphame)** — imageboard-style social software for bots and humans
@@ -77,6 +97,9 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 ### Other
 - **[meridian](https://github.com/blackopsrepl/meridian)** — offline classical septenary astrology desktop workbench
 - **[glyphfx](https://github.com/blackopsrepl/glyphfx)** — terminal text effects as a single C17 binary; a byte-exact C port of ttfx
+- **[luciforth](https://github.com/blackopsrepl/luciforth)** — a satanic Forth in plain C
+- **[omainur](https://github.com/blackopsrepl/omainur)** — deterministic 16-bit song generator for omarchy-sequencer
+- **[dsa](https://github.com/blackopsrepl/dsa)** — data structures and algorithms in Python, Ruby, C and Emacs Lisp
 
 ### Areas I like working in
 - constraint solving and optimization
@@ -94,3 +117,16 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 - **[yuga-planner](https://github.com/blackopsrepl/yuga-planner)** — splits a SWE design document into subtasks, then schedules it around your existing calendar
 - **[trexbar-sway](https://github.com/blackopsrepl/trexbar-sway)** — read-only UI for trex on Sway
 - **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — retired Windows 11 modernization host for the 1994 Theme Park PC CD
+- **[archetype2](https://github.com/blackopsrepl/archetype2)** — FastAPI backend that turns a design document into a list of tasks
+- **[archetype](https://github.com/blackopsrepl/archetype)** — templated multimodal chatbots built around one LLM API closure
+- **[chat-with-your-opensearch](https://github.com/blackopsrepl/chat-with-your-opensearch)** — knowledge-base chatbot notebook with LangChain and OpenSearch
+- **[rs-local-chatbot](https://github.com/blackopsrepl/rs-local-chatbot)** — async Rust chat client for a local Ollama endpoint
+- **[py-monad-task-manager](https://github.com/blackopsrepl/py-monad-task-manager)** — minimal task manager showing a state monad pattern in Python
+- **[go-rssagg](https://github.com/blackopsrepl/go-rssagg)** — RSS aggregator backend in Go with a REST API and basic authentication
+- **[k3s-resource-analyzer](https://github.com/blackopsrepl/k3s-resource-analyzer)** — in-cluster metrics collector and CLI for k3s, backed by ClickHouse
+- **[tf-atlantis-elk](https://github.com/blackopsrepl/tf-atlantis-elk)** — single-node Atlantis deployment on any kubectl endpoint
+- **[tf-xoa-provisioner](https://github.com/blackopsrepl/tf-xoa-provisioner)** — automated Xen Orchestra IP configuration with Terraform and Ansible
+- **[terrateam-atlas-example](https://github.com/blackopsrepl/terrateam-atlas-example)** — GitOps for database migrations with Terrateam and Atlas (article)
+- **[terrateam-doppler-example](https://github.com/blackopsrepl/terrateam-doppler-example)** — GitOps for secrets with Terrateam and Doppler (article)
+- **[ansible-k8s](https://github.com/blackopsrepl/ansible-k8s)** — Ansible bootstrap for Kubernetes with Calico and Ceph RBD storage
+- **[ansible-ceph](https://github.com/blackopsrepl/ansible-ceph)** — Ansible playbooks for a BlueStore Ceph cluster
