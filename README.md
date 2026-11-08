@@ -72,8 +72,6 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — configuration layer for Sway inspired by Omarchy
 - **[switchyard](https://github.com/blackopsrepl/switchyard)** — systemd unit dashboard for Rails dev environments: Waybar chip and QuickShell panel
 - **[csemver](https://github.com/blackopsrepl/csemver)** — pure C port of commit-and-tag-version with TOML configuration
-- **[init-pre-commit](https://github.com/blackopsrepl/init-pre-commit)** — generates `.pre-commit-config.yaml` from the project types it detects
-- **[borg-timemachine](https://github.com/blackopsrepl/borg-timemachine)** — scripts that run borg as a "time machine"
 
 ### Machine learning
 - **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — local microGPT implementation that splits tasks into subtasks
@@ -85,10 +83,6 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 - **[Heimdall2Native](https://github.com/blackopsrepl/Heimdall2Native)** — native Windows modernization layer for Heimdall 2 (1994)
 - **[Winterrealm3](https://github.com/blackopsrepl/winterrealm3)** — one family-shared L2J Interlude world with Docker on Windows or Linux
 - **[CMaNGOS Vanilla](https://github.com/blackopsrepl/cmangos-vanilla)** — home-LAN Vanilla realm setup with Docker on Windows or Linux
-- **[re1_launcher](https://github.com/blackopsrepl/re1_launcher)** — Windows launcher for a separately installed Resident Evil (1996) with Classic REbirth
-- **[diablo_launcher](https://github.com/blackopsrepl/diablo_launcher)** — Windows launcher for a separately installed DevilutionX
-- **[c-chess](https://github.com/blackopsrepl/c-chess)** — two-player terminal chess in C11 with a perft-tested rules engine
-- **[c-poker](https://github.com/blackopsrepl/c-poker)** — heads-up five-card draw poker for the terminal in standard C
 
 ### Web and social software
 - **[Elphame](https://github.com/blackopsrepl/elphame)** — imageboard-style social software for bots and humans
@@ -97,9 +91,6 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 ### Other
 - **[meridian](https://github.com/blackopsrepl/meridian)** — offline classical septenary astrology desktop workbench
 - **[glyphfx](https://github.com/blackopsrepl/glyphfx)** — terminal text effects as a single C17 binary; a byte-exact C port of ttfx
-- **[luciforth](https://github.com/blackopsrepl/luciforth)** — a satanic Forth in plain C
-- **[omainur](https://github.com/blackopsrepl/omainur)** — deterministic 16-bit song generator for omarchy-sequencer
-- **[dsa](https://github.com/blackopsrepl/dsa)** — data structures and algorithms in Python, Ruby, C and Emacs Lisp
 
 ### Areas I like working in
 - constraint solving and optimization
@@ -117,16 +108,3 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 - **[yuga-planner](https://github.com/blackopsrepl/yuga-planner)** — splits a SWE design document into subtasks, then schedules it around your existing calendar
 - **[trexbar-sway](https://github.com/blackopsrepl/trexbar-sway)** — read-only UI for trex on Sway
 - **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — retired Windows 11 modernization host for the 1994 Theme Park PC CD
-- **[archetype2](https://github.com/blackopsrepl/archetype2)** — FastAPI backend that turns a design document into a list of tasks
-- **[archetype](https://github.com/blackopsrepl/archetype)** — templated multimodal chatbots built around one LLM API closure
-- **[chat-with-your-opensearch](https://github.com/blackopsrepl/chat-with-your-opensearch)** — knowledge-base chatbot notebook with LangChain and OpenSearch
-- **[rs-local-chatbot](https://github.com/blackopsrepl/rs-local-chatbot)** — async Rust chat client for a local Ollama endpoint
-- **[py-monad-task-manager](https://github.com/blackopsrepl/py-monad-task-manager)** — minimal task manager showing a state monad pattern in Python
-- **[go-rssagg](https://github.com/blackopsrepl/go-rssagg)** — RSS aggregator backend in Go with a REST API and basic authentication
-- **[k3s-resource-analyzer](https://github.com/blackopsrepl/k3s-resource-analyzer)** — in-cluster metrics collector and CLI for k3s, backed by ClickHouse
-- **[tf-atlantis-elk](https://github.com/blackopsrepl/tf-atlantis-elk)** — single-node Atlantis deployment on any kubectl endpoint
-- **[tf-xoa-provisioner](https://github.com/blackopsrepl/tf-xoa-provisioner)** — automated Xen Orchestra IP configuration with Terraform and Ansible
-- **[terrateam-atlas-example](https://github.com/blackopsrepl/terrateam-atlas-example)** — GitOps for database migrations with Terrateam and Atlas (article)
-- **[terrateam-doppler-example](https://github.com/blackopsrepl/terrateam-doppler-example)** — GitOps for secrets with Terrateam and Doppler (article)
-- **[ansible-k8s](https://github.com/blackopsrepl/ansible-k8s)** — Ansible bootstrap for Kubernetes with Calico and Ceph RBD storage
-- **[ansible-ceph](https://github.com/blackopsrepl/ansible-ceph)** — Ansible playbooks for a BlueStore Ceph cluster
