@@ -93,4 +93,4 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 - **[zoyd](https://github.com/blackopsrepl/zoyd)** — portable autonomous-loop coding agent with memory
 - **[yuga-planner](https://github.com/blackopsrepl/yuga-planner)** — splits a SWE design document into subtasks, then schedules it around your existing calendar
 - **[trexbar-sway](https://github.com/blackopsrepl/trexbar-sway)** — read-only UI for trex on Sway
-- **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — retired Windows 11 modernization host for the 1994 Theme Park PC CD; replaced by a static recompilation, archived read-only
+- **[ThemePark2Native](https://github.com/blackopsrepl/ThemePark2Native)** — retired Windows 11 modernization host for the 1994 Theme Park PC CD
