@@ -44,9 +44,9 @@ Four ways to work with me: planning systems on SolverForge, advisory for any sof
 https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 
 ### AI agents and agent tooling
-- **[hermes-solverforge-planner](https://github.com/blackopsrepl/hermes-solverforge-planner)** — Hermes plugin that plans your week around your calendar
-- **[hermes-solverforge-routing](https://github.com/blackopsrepl/hermes-solverforge-routing)** — Hermes plugin that plans multi-stop driving routes
 - **[hermes-solverforge-workbench](https://github.com/blackopsrepl/hermes-solverforge-workbench)** — Hermes plugin to tune, solve and compare SolverForge models, stock or your own
+- **[hermes-solverforge-planner](https://github.com/blackopsrepl/hermes-solverforge-planner)** — simplified Hermes plugin that plans your week around your calendar
+- **[hermes-solverforge-routing](https://github.com/blackopsrepl/hermes-solverforge-routing)** — simplified Hermes plugin that plans multi-stop driving routes
 - **[lumen](https://github.com/blackopsrepl/lumen)** — single-binary session service: isolated Qt/Quickshell for agents, with a live, controllable viewer for humans
 - **[computer-use-sway](https://github.com/blackopsrepl/computer-use-sway)** — MCP server that allows any agent harness to use your Sway session
 - **[seshat](https://github.com/blackopsrepl/seshat)** — MCP server that records a screen and narrates the take, anchored to the events other tool servers publish
