@@ -72,6 +72,7 @@ https://github.com/user-attachments/assets/e5e04965-84aa-445e-92be-8ee489f9dfcd
 - **[solverforge-linux](https://github.com/blackopsrepl/solverforge-linux)** — configuration layer for Sway inspired by Omarchy
 - **[switchyard](https://github.com/blackopsrepl/switchyard)** — systemd unit dashboard for Rails dev environments: Waybar chip and QuickShell panel
 - **[csemver](https://github.com/blackopsrepl/csemver)** — pure C port of commit-and-tag-version with TOML configuration
+- **[rdedupe](https://github.com/blackopsrepl/rdedupe)** — exact, recoverable duplicate file finder in Rust
 
 ### Machine learning
 - **[solverforge-gpt](https://github.com/SolverForge/solverforge-gpt)** — local microGPT implementation that splits tasks into subtasks
